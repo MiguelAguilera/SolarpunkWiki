@@ -33,7 +33,7 @@ El programa político propone apropiarse de esas tecnologías mediante control d
 
 Bastani se sitúa explícitamente contra la austeridad de izquierda: la izquierda no debería vender sacrificio sino lujo. En este punto converge con el diagnóstico de Fisher en [[conceptos/acid_communism|Comunismo Ácido]] —la izquierda perdió el terreno del deseo— aunque llega a esa conclusión por un camino diferente: no la subjetividad psicodélica sino la abundancia material tecnológica.
 
-Su propuesta no es reformar el capitalismo (a diferencia de Klein y Thompson en [[obras/abundance|Abundance]]) sino trascenderlo mediante la apropiación de sus propias herramientas.
+Su propuesta no es reformar el capitalismo (a diferencia de Klein y Thompson en [[obras/abundance|Abundancia]]) sino trascenderlo mediante la apropiación de sus propias herramientas.
 
 ### Limitaciones señaladas por los reseñistas
 
@@ -46,7 +46,7 @@ Su propuesta no es reformar el capitalismo (a diferencia de Klein y Thompson en 
 ## Tensiones con otras obras de la wiki
 
 - **vs. [[obras/less_is_more|Less Is More]]**: Antítesis directa. Donde Hickel ve la reducción del metabolismo material como condición de la justicia ecológica, Bastani ve la expansión tecnológica como salida a los límites. La minería espacial de FALC es la inversión exacta de la seriedad biofísica de Hickel. Comparten el anticapitalismo; divergen en todo lo demás.
-- **vs. [[obras/abundance|Abundance]]**: Ambos tecnoptimistas, pero con políticas opuestas. Klein y Thompson quieren reparar el capitalismo; Bastani quiere superarlo. La pregunta que los separa: ¿puede la abundancia tecnológica coexistir con el capitalismo o este siempre la capturará para la acumulación?
+- **vs. [[obras/abundance|Abundancia]]**: Ambos tecnoptimistas, pero con políticas opuestas. Klein y Thompson quieren reparar el capitalismo; Bastani quiere superarlo. La pregunta que los separa: ¿puede la abundancia tecnológica coexistir con el capitalismo o este siempre la capturará para la acumulación?
 - **vs. [[obras/los_desposeidos|Los Desposeídos]]**: FALC promete lo que Anarres nunca tuvo: abundancia material además de justicia. Pero la pregunta de Le Guin —bajo qué condiciones la suficiencia genera vitalidad— no es la pregunta de Bastani, que asume que la abundancia material resuelve el problema afectivo sin argumentarlo.
 
 ## Referencias cruzadas
@@ -55,7 +55,7 @@ Su propuesta no es reformar el capitalismo (a diferencia de Klein y Thompson en 
 - [[conexiones/abundancia_y_socialismo|Abundancia y socialismo]] — FALC en contraste con otras visiones
 - [[conceptos/decrecimiento|Decrecimiento]] — la antítesis biofísica más directa
 - [[conceptos/acid_communism|Comunismo Ácido]] — convergencia en el rechazo a la austeridad de izquierda
-- [[obras/abundance|Abundance]] — tecnoptimismo liberal, mismo eje diferente política
+- [[obras/abundance|Abundancia]] — tecnoptimismo liberal, mismo eje diferente política
 
 ## Fuentes
 

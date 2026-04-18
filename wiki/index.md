@@ -17,7 +17,7 @@ updated: 2026-04-18
 ### No ficción
 
 - [[obras/less_is_more|Less Is More]] — Jason Hickel (2020). Manifiesto ecosocialista de divulgación; decrecimiento y sus límites políticos.
-- [[obras/abundance|Abundance]] — Ezra Klein y Derek Thompson (2024). Reforma del liberalismo progresista para recuperar capacidad estatal.
+- [[obras/abundance|Abundancia]] — Ezra Klein y Derek Thompson (2024). Reforma del liberalismo progresista para recuperar capacidad estatal.
 - [[obras/fully_automated_luxury_communism|Comunismo de lujo totalmente automatizado]] — Aaron Bastani (2019). Aceleracionismo de izquierda; lujo universal a través de automatización y postcapitalismo tecnológico.
 - [[obras/inventar_el_futuro|Inventar el futuro]] — Srnicek y Williams (2015). Crítica de la folk politics; programa post-trabajo; estrategia hegemónica para la izquierda.
 - [[obras/cuatro_futuros|Cuatro Futuros]] — Peter Frase (2016). Mapa de escenarios postcapitalistas: comunismo, rentismo, socialismo, exterminismo. El cambio climático como factor que empuja hacia la escasez y amplifica el riesgo de exterminismo.

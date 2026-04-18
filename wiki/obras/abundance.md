@@ -1,5 +1,5 @@
 ---
-title: "Abundance"
+title: "Abundancia"
 type: obra
 date: 2026-04-18
 updated: 2026-04-18
@@ -7,7 +7,7 @@ sources: [raw/no-ficcion/abundance_notas_Miguel.md]
 tags: [abundancia, capacidad-estatal, liberalismo, tecnocracia, innovacion, no-ficcion]
 ---
 
-# Abundance
+# Abundancia
 
 ## Resumen
 

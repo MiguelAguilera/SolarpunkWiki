@@ -11,7 +11,7 @@ tags: [liberalismo, capacidad-estatal, divulgacion, politica-estadounidense]
 
 ## Resumen
 
-Periodistas y comentaristas políticos norteamericanos. Ezra Klein es cofundador de Vox y columnista del *New York Times*; Derek Thompson es redactor de *The Atlantic*. Representan el ala reflexiva del liberalismo progresista anglófono: críticos de su propia tradición política pero sin voluntad de ruptura estructural. *Abundance* (2024) es su colaboración más ambiciosa.
+Periodistas y comentaristas políticos norteamericanos. Ezra Klein es cofundador de Vox y columnista del *New York Times*; Derek Thompson es redactor de *The Atlantic*. Representan el ala reflexiva del liberalismo progresista anglófono: críticos de su propia tradición política pero sin voluntad de ruptura estructural. *Abundancia* (2024) es su colaboración más ambiciosa.
 
 ## Contenido principal
 
@@ -23,7 +23,7 @@ Su diagnóstico —el socioliberalismo ha construido demasiados mecanismos de ve
 
 ### Obras en la wiki
 
-- [[obras/abundance|Abundance]] (2024) — reforma del liberalismo progresista para recuperar capacidad estatal
+- [[obras/abundance|Abundancia]] (2024) — reforma del liberalismo progresista para recuperar capacidad estatal
 
 ### Distancias notables
 
@@ -31,7 +31,7 @@ A diferencia de [[autores/jason_hickel|Jason Hickel]], no tienen formación en e
 
 ## Referencias cruzadas
 
-- [[obras/abundance|Abundance]] — obra principal en la wiki
+- [[obras/abundance|Abundancia]] — obra principal en la wiki
 - [[conexiones/abundancia_y_socialismo|Abundancia y socialismo]] — su concepción de abundancia en contraste con Hickel y el solarpunk
 
 ## Fuentes

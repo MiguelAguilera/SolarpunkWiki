@@ -107,7 +107,7 @@ Hilo central: la revolución Odoniana como resultado de una izquierda sin hedoni
 
 ---
 
-## [2026-04-18] ingesta | Abundance — Ezra Klein y Derek Thompson
+## [2026-04-18] ingesta | Abundancia — Ezra Klein y Derek Thompson
 
 Páginas creadas a partir de `raw/no-ficcion/abundance_notas_Miguel.md`:
 - `wiki/obras/abundance.md`

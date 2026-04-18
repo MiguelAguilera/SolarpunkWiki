@@ -62,7 +62,7 @@ Este escenario hace urgente la pregunta del agente: no solo "¿qué mundo querem
 
 ### El contraste con la agenda de abundancia
 
-[[obras/abundance|Abundance]] (Klein y Thompson) representa la antítesis liberal del decrecimiento: el problema no es el crecimiento sino la incapacidad institucional de ejecutarlo limpiamente. Donde Hickel ve un límite estructural, Klein y Thompson ven un fallo de gestión. La diferencia no es técnica sino filosófica: ¿es la crisis ecológica un problema de *cómo* producimos o de *cuánto* producimos?
+[[obras/abundance|Abundancia]] (Klein y Thompson) representa la antítesis liberal del decrecimiento: el problema no es el crecimiento sino la incapacidad institucional de ejecutarlo limpiamente. Donde Hickel ve un límite estructural, Klein y Thompson ven un fallo de gestión. La diferencia no es técnica sino filosófica: ¿es la crisis ecológica un problema de *cómo* producimos o de *cuánto* producimos?
 
 La paradoja es que ambos libros comparten el mismo defecto político: ninguno tiene teoría del agente. Véase [[conexiones/abundancia_y_socialismo|Abundancia y socialismo]].
 

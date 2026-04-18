@@ -17,7 +17,7 @@ Página de conexión que cartografía las concepciones radicalmente distintas de
 
 ### Las visiones
 
-**Abundancia técnica dentro del capitalismo (Klein y Thompson, [[obras/abundance|Abundance]])**
+**Abundancia técnica dentro del capitalismo (Klein y Thompson, [[obras/abundance|Abundancia]])**
 Abundancia como capacidad de producción y despliegue a gran escala. El problema es institucional: demasiada fricción, demasiados puntos de veto, demasiada poca capacidad estatal de ejecución. La solución es reformar el liberalismo para construir más y más rápido —vivienda, infraestructura, energía limpia. No hay transformación de relaciones sociales ni de valores. La abundancia es una cuestión de eficiencia y gestión dentro del marco existente.
 
 **Suficiencia redistributiva (Hickel, [[obras/less_is_more|Less Is More]])**
@@ -54,7 +54,7 @@ La pregunta que estos ejes abren: ¿puede haber una visión que sea a la vez ant
 
 Todas las visiones, con matices distintos, comparten el mismo déficit estructural: no tienen teoría de quién hace la transformación, a través de qué formas organizativas, contra qué resistencias concretas.
 
-En [[obras/abundance|Abundance]], el cambio ocurre dentro de instituciones reformadas. En [[obras/less_is_more|Less Is More]], los gobiernos "deben" y las sociedades "necesitan". En [[obras/fully_automated_luxury_communism|Comunismo de lujo totalmente automatizado]], la tecnología hace el trabajo político sin que se explique cómo se vence la resistencia de quienes hoy controlan esa tecnología mediante la propiedad intelectual. El pueblo como sujeto político está ausente en los tres. [[autores/srnicek_williams|Srnicek y Williams]] ([[obras/inventar_el_futuro|Inventar el futuro]], 2015) tienen la teoría —hegemonía gramsciana, crítica de la folk politics, estrategia de partido-masa— que ninguno incorpora.
+En [[obras/abundance|Abundancia]], el cambio ocurre dentro de instituciones reformadas. En [[obras/less_is_more|Less Is More]], los gobiernos "deben" y las sociedades "necesitan". En [[obras/fully_automated_luxury_communism|Comunismo de lujo totalmente automatizado]], la tecnología hace el trabajo político sin que se explique cómo se vence la resistencia de quienes hoy controlan esa tecnología mediante la propiedad intelectual. El pueblo como sujeto político está ausente en los tres. [[autores/srnicek_williams|Srnicek y Williams]] ([[obras/inventar_el_futuro|Inventar el futuro]], 2015) tienen la teoría —hegemonía gramsciana, crítica de la folk politics, estrategia de partido-masa— que ninguno incorpora.
 
 La ficción solarpunk y Le Guin esquivan la pregunta de otra manera: imaginan el mundo después de la transición sin teorizar la transición misma.
 
@@ -85,7 +85,7 @@ Si el solarpunk logra esto o si reproduce en formas más coloridas el punto cieg
 
 ## Referencias cruzadas
 
-- [[obras/abundance|Abundance]] — abundancia técnica dentro del capitalismo
+- [[obras/abundance|Abundancia]] — abundancia técnica dentro del capitalismo
 - [[obras/less_is_more|Less Is More]] — suficiencia redistributiva
 - [[obras/fully_automated_luxury_communism|Comunismo de lujo totalmente automatizado]] — post-escasez tecnológica anticapitalista
 - [[obras/los_desposeidos|Los Desposeídos]] — suficiencia vivida y sus costes afectivos
@@ -97,7 +97,7 @@ Si el solarpunk logra esto o si reproduce en formas más coloridas el punto cieg
 
 ## Fuentes
 
-- `raw/no-ficcion/abundance_notas_Miguel.md` — conexión explícita entre *Abundance* y el imaginario solarpunk
+- `raw/no-ficcion/abundance_notas_Miguel.md` — conexión explícita entre *Abundancia* y el imaginario solarpunk
 - `raw/no-ficcion/less-is-more-notas_Miguel.md` — análisis de Hickel y el horizonte de la suficiencia
 - `raw/ficcion/los_desposeidos_notas_Miguel.md` — Anarres como sociedad de suficiencia y sus costes afectivos
 - [Reseña Society & Space de FALC](https://www.societyandspace.org/articles/fully-automated-luxury-communism-a-manifesto-by-aaron-bastani) — marco teórico y limitaciones ecológicas
