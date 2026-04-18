@@ -12,7 +12,7 @@ raw/                     # Documentos fuente — INMUTABLES, nunca modificar
   assets/                # Imágenes, diagramas (descargados localmente)
 
 wiki/                    # Wiki mantenida por el LLM — tú controlas esto
-  indice.md              # Índice maestro de todas las páginas
+  index.md               # Índice maestro de todas las páginas
   registro.md            # Registro cronológico (solo añadir, nunca borrar)
   obras/                 # Una página por novela, colección o ensayo
   autores/               # Una página por autor/a
@@ -111,14 +111,14 @@ Cuando se te pida ingerir un archivo de `raw/`:
 4. Crear nuevas páginas de conceptos para temas que aún no estén en la wiki.
 5. Actualizar páginas existentes de conceptos, autores y conexiones con la información nueva.
 6. Señalar explícitamente contradicciones o tensiones con el contenido existente de la wiki.
-7. Actualizar `wiki/indice.md`.
+7. Actualizar `wiki/index.md`.
 8. Añadir una entrada en `wiki/registro.md` con el formato:
    `## [AAAA-MM-DD] ingesta | Título de la fuente`
 
 ### Responder una pregunta
 Cuando se te haga una pregunta sobre el contenido de la wiki:
 
-1. Leer `wiki/indice.md` para identificar páginas relevantes.
+1. Leer `wiki/index.md` para identificar páginas relevantes.
 2. Leer esas páginas.
 3. Sintetizar una respuesta con [[wikilinks]] a las páginas pertinentes.
 4. Si la respuesta es sustancial y reutilizable, ofrecer archivarla como nueva página (normalmente en `conexiones/`).
