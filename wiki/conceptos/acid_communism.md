@@ -55,7 +55,7 @@ Leído desde Fisher, [[obras/los_desposeidos|Los Desposeídos]] muestra exactame
 
 El comunismo ácido es el marco que permite formular la pregunta más importante para el solarpunk contemporáneo: ¿puede ofrecer una visión del futuro que sea deseable además de justa? Véase [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]].
 
-Vale la pena notar que [[autores/aaron_bastani|Bastani]] llega a una conclusión paralela por una ruta diferente: [[obras/fully_automated_luxury_communism|Fully Automated Luxury Communism]] rechaza la austeridad de izquierda y reivindica el lujo como horizonte político. Pero donde Fisher trabaja la subjetividad y la conciencia, Bastani trabaja las fuerzas productivas. La pregunta que los separa: ¿puede la abundancia material resolver el problema afectivo que Fisher diagnóstica, o son terrenos distintos?
+Vale la pena notar que [[autores/aaron_bastani|Bastani]] llega a una conclusión paralela por una ruta diferente: [[obras/fully_automated_luxury_communism|Comunismo de lujo totalmente automatizado]] rechaza la austeridad de izquierda y reivindica el lujo como horizonte político. Pero donde Fisher trabaja la subjetividad y la conciencia, Bastani trabaja las fuerzas productivas. La pregunta que los separa: ¿puede la abundancia material resolver el problema afectivo que Fisher diagnóstica, o son terrenos distintos?
 
 ### Butler y el materialismo de la solidaridad
 

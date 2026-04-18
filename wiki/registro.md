@@ -26,7 +26,7 @@ Tensiones centrales registradas: la contradicción humana (inteligencia + jerarq
 
 ---
 
-## [2026-04-18] ingesta | Monk & Robot — Becky Chambers
+## [2026-04-18] ingesta | Monje y Robot — Becky Chambers
 
 Páginas creadas a partir de `raw/ficcion/monje_y_robot_notas_Miguel.md`:
 - `wiki/obras/monje_y_robot.md`
@@ -38,7 +38,7 @@ Páginas actualizadas:
 - `wiki/conceptos/decrecimiento.md` — nueva sección sobre Panga como el día después que Hickel no puede ver
 - `wiki/obras/los_desposeidos.md` — nueva sección comparando Anarres y Panga como las dos sociedades de suficiencia
 - `wiki/conexiones/revolucion_hedonismo_decrecimiento.md` — Chambers añade la pregunta del sentido más allá del deseo
-- `wiki/conexiones/abundancia_y_socialismo.md` — Monk & Robot incorporado a la visión de abundancia vivida
+- `wiki/conexiones/abundancia_y_socialismo.md` — Monje y Robot incorporado a la visión de abundancia vivida
 - `wiki/obras/inventar_el_futuro.md` — Chambers como complemento fenomenológico de S/W
 
 Tensión central registrada: la sociedad buena y la vida plena no son la misma cosa. El desasosiego de Dex es el problema que existe al otro lado de la transición decrecentista. Fisher diagnostica el punto ciego del deseo; Chambers diagnostica el punto ciego del sentido. Son complementarios. El libro que combine rigor biofísico (Hickel) + arquitectura política (S/W) + economía reproductiva (Federici) + textura fenomenológica (Chambers) está todavía por escribir.
@@ -62,7 +62,7 @@ Tensión central registrada: el rentismo de Frase es el correctivo necesario al 
 
 ---
 
-## [2026-04-18] referencia | Inventing the Future — Srnicek y Williams
+## [2026-04-18] referencia | Inventar el futuro — Srnicek y Williams
 
 Páginas creadas a partir de reseñas externas (sin archivo en raw/):
 - `wiki/obras/inventar_el_futuro.md`
@@ -79,7 +79,7 @@ Tensión central registrada: S/W tienen la teoría hegemónica que Hickel, Basta
 
 ---
 
-## [2026-04-18] referencia | Fully Automated Luxury Communism — Aaron Bastani
+## [2026-04-18] referencia | Comunismo de lujo totalmente automatizado — Aaron Bastani
 
 Páginas creadas a partir de reseñas externas (sin archivo en raw/):
 - `wiki/obras/fully_automated_luxury_communism.md`

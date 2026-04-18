@@ -25,7 +25,7 @@ En el mapa de [[autores/peter_frase|Frase]] ([[obras/cuatro_futuros|Cuatro Futur
 
 Earthseed no es religión en el sentido metafísico sino un sistema pragmático de coordinación social. Su principio central — "Dios es Cambio" — no es una afirmación sobre la realidad sobrenatural sino una herramienta que entrena a las personas para leer el cambio como condición fundamental de la realidad y actuar en consecuencia.
 
-Su escatología material —"echar raíces entre las estrellas"— resuelve un problema que la teoría política pura no ha resuelto: cómo motivar acción colectiva multigeneracional sin promesa de mejora inmediata. El Destino es real pero está lejos y requiere ingeniería. Esto conecta con el problema de la teoría del cambio en [[obras/less_is_more|Less Is More]] y [[obras/inventar_el_futuro|Inventing the Future]]: ninguno tiene una escatología funcional que motive a través del tiempo.
+Su escatología material —"echar raíces entre las estrellas"— resuelve un problema que la teoría política pura no ha resuelto: cómo motivar acción colectiva multigeneracional sin promesa de mejora inmediata. El Destino es real pero está lejos y requiere ingeniería. Esto conecta con el problema de la teoría del cambio en [[obras/less_is_more|Less Is More]] y [[obras/inventar_el_futuro|Inventar el futuro]]: ninguno tiene una escatología funcional que motive a través del tiempo.
 
 ### Transmisión práctica como hegemonía orgánica
 
@@ -51,10 +51,10 @@ Esto es más incómodo para el proyecto decrecentista y ecosocialista que cualqu
 
 ## Tensiones con otras obras de la wiki
 
-- **vs. [[obras/los_desposeidos|Los Desposeídos]]**: Anarres está institucionalizada y empezando a calcificarse; Bellota está en su fase cruda, donde las prácticas de supervivencia aún no se han convertido en burocracia. Le Guin muestra el problema de la calcificación; Butler muestra el problema de la fragilidad. Juntas cubren el ciclo completo de una comunidad intencional. Con [[obras/monje_y_robot|Monk & Robot]] de Chambers se completa el tríptico: Bellota (fundación), Anarres (institucionalización), Panga (resolución).
+- **vs. [[obras/los_desposeidos|Los Desposeídos]]**: Anarres está institucionalizada y empezando a calcificarse; Bellota está en su fase cruda, donde las prácticas de supervivencia aún no se han convertido en burocracia. Le Guin muestra el problema de la calcificación; Butler muestra el problema de la fragilidad. Juntas cubren el ciclo completo de una comunidad intencional. Con [[obras/monje_y_robot|Monje y Robot]] de Chambers se completa el tríptico: Bellota (fundación), Anarres (institucionalización), Panga (resolución).
 - **vs. [[obras/less_is_more|Less Is More]]**: Hickel es fuerte en diagnóstico biofísico y débil en teoría del cambio; Butler tiene una teoría del cambio micro (transmisión práctica de Earthseed) pero la misma ausencia a escala macro. El libro ideal combinaría la seriedad biofísica de Hickel con la honestidad antropológica de Butler.
-- **vs. [[obras/inventar_el_futuro|Inventing the Future]]**: Modos complementarios y en tensión. S/W construyen hegemonía a través de infraestructura institucional; Lauren a través de proximidad a la competencia. La fragilidad de Bellota ante el fascismo organizado confirma que la transmisión práctica necesita eventualmente la estrategia hegemónica de S/W.
-- **vs. [[obras/monje_y_robot|Monk & Robot]]**: Butler muestra el momento más brutal del proceso que Chambers ya ha dado por resuelto. Panga es el mundo que Bellota intenta construir sin saber si lo logrará.
+- **vs. [[obras/inventar_el_futuro|Inventar el futuro]]**: Modos complementarios y en tensión. S/W construyen hegemonía a través de infraestructura institucional; Lauren a través de proximidad a la competencia. La fragilidad de Bellota ante el fascismo organizado confirma que la transmisión práctica necesita eventualmente la estrategia hegemónica de S/W.
+- **vs. [[obras/monje_y_robot|Monje y Robot]]**: Butler muestra el momento más brutal del proceso que Chambers ya ha dado por resuelto. Panga es el mundo que Bellota intenta construir sin saber si lo logrará.
 
 ## Referencias cruzadas
 
@@ -63,8 +63,8 @@ Esto es más incómodo para el proyecto decrecentista y ecosocialista que cualqu
 - [[conceptos/politica_prefigurativa|Política prefigurativa]] — Bellota como su forma más honesta y más frágil
 - [[obras/cuatro_futuros|Cuatro Futuros]] — el mundo de Butler como exterminismo activo; Bellota como resistencia dentro de él
 - [[obras/los_desposeidos|Los Desposeídos]] — Anarres y Bellota como dos momentos del ciclo de una comunidad intencional
-- [[obras/monje_y_robot|Monk & Robot]] — Panga como el mundo que Bellota intenta construir
-- [[obras/inventar_el_futuro|Inventing the Future]] — la transmisión práctica de Earthseed vs. la hegemonía institucional de S/W
+- [[obras/monje_y_robot|Monje y Robot]] — Panga como el mundo que Bellota intenta construir
+- [[obras/inventar_el_futuro|Inventar el futuro]] — la transmisión práctica de Earthseed vs. la hegemonía institucional de S/W
 - [[conceptos/acid_communism|Comunismo Ácido]] — la hiperempatía como teoría materialista de la solidaridad
 
 ## Fuentes

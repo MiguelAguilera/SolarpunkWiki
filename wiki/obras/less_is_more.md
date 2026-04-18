@@ -59,7 +59,7 @@ Si la primera parte describe un sistema que lleva cinco siglos encerrando comune
 
 ### La evolución de Hickel
 
-El artículo de Hickel sobre Occupy Wall Street (2012) mostraba ya el análisis de la folk politics casi exactamente como [[autores/srnicek_williams|Srnicek y Williams]] lo desarrollarían en [[obras/inventar_el_futuro|Inventing the Future]] (2015). El Hickel de 2020 dejó esas herramientas a un lado para alcanzar una audiencia popular. En 2025 ha girado explícitamente hacia el ecosocialismo electoral —partido de masas, alianza trabajadores-ambientalistas, garantía de empleo público. La respuesta del movimiento decrecentista ha sido airada.
+El artículo de Hickel sobre Occupy Wall Street (2012) mostraba ya el análisis de la folk politics casi exactamente como [[autores/srnicek_williams|Srnicek y Williams]] lo desarrollarían en [[obras/inventar_el_futuro|Inventar el futuro]] (2015). El Hickel de 2020 dejó esas herramientas a un lado para alcanzar una audiencia popular. En 2025 ha girado explícitamente hacia el ecosocialismo electoral —partido de masas, alianza trabajadores-ambientalistas, garantía de empleo público. La respuesta del movimiento decrecentista ha sido airada.
 
 ## Referencias cruzadas
 

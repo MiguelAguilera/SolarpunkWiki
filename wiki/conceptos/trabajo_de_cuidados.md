@@ -11,7 +11,7 @@ tags: [cuidados, reproduccion-social, federici, capitalismo, genero, trabajo, co
 
 ## Resumen
 
-El trabajo que produce y reproduce la vida: crianza, cuidado de enfermos y mayores, sostenimiento emocional, construcción de vínculos, mantenimiento de la comunidad. Históricamente feminizado, devaluado y excluido del cómputo económico. [[autores/silvia_federici|Federici]] [?] es la teórica más importante de cómo el capitalismo requirió la destrucción sistemática de las formas comunales de este trabajo como condición de posibilidad de la acumulación originaria. La wiki trabaja el concepto principalmente a través de [[obras/monje_y_robot|Monk & Robot]], que lo dramatiza en positivo: cómo se ve una sociedad que nunca realizó ese cercamiento.
+El trabajo que produce y reproduce la vida: crianza, cuidado de enfermos y mayores, sostenimiento emocional, construcción de vínculos, mantenimiento de la comunidad. Históricamente feminizado, devaluado y excluido del cómputo económico. [[autores/silvia_federici|Federici]] [?] es la teórica más importante de cómo el capitalismo requirió la destrucción sistemática de las formas comunales de este trabajo como condición de posibilidad de la acumulación originaria. La wiki trabaja el concepto principalmente a través de [[obras/monje_y_robot|Monje y Robot]], que lo dramatiza en positivo: cómo se ve una sociedad que nunca realizó ese cercamiento.
 
 ## Contenido principal
 
@@ -23,7 +23,7 @@ Silvia Federici en *Calibán y la Bruja* [?] argumenta que la acumulación origi
 
 ### El monje del té como forma institucionalizada
 
-La vocación de Dex en [[obras/monje_y_robot|Monk & Robot]] —ofrecer presencia y escucha, sostener vínculos, acompañar el desasosiego ajeno— es exactamente el tipo de trabajo que Federici describe como históricamente destruido. Panga lo ha institucionalizado como vocación legítima, sostenida sin necesidad de justificarse en términos productivos.
+La vocación de Dex en [[obras/monje_y_robot|Monje y Robot]] —ofrecer presencia y escucha, sostener vínculos, acompañar el desasosiego ajeno— es exactamente el tipo de trabajo que Federici describe como históricamente destruido. Panga lo ha institucionalizado como vocación legítima, sostenida sin necesidad de justificarse en términos productivos.
 
 Dex es la sanadora que nunca fue quemada. Panga es la sociedad que nunca encerró los comunes del cuidado. Los robots que se marchan y son dejados ir representan la ruptura con la lógica del cuerpo-como-instrumento que el trabajo de cuidados históricamente ha sufrido.
 
@@ -40,7 +40,7 @@ La irrupción de la IA como infraestructura de cuidado emocional —el caso del 
 
 ## Referencias cruzadas
 
-- [[obras/monje_y_robot|Monk & Robot]] — dramatización en positivo: la sociedad que nunca encerró estos comunes
+- [[obras/monje_y_robot|Monje y Robot]] — dramatización en positivo: la sociedad que nunca encerró estos comunes
 - [[conceptos/comunes|Comunes]] — los comunes reproductivos como dimensión no desarrollada en la wiki
 - [[conceptos/epistemologia_no_extractiva|Epistemología no extractiva]] — el saber encarnado como forma de conocimiento destruida junto con el trabajo de cuidados
 - [[obras/less_is_more|Less Is More]] — la fractura metabólica como contraparte de la fractura reproductiva

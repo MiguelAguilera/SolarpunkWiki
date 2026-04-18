@@ -71,7 +71,7 @@ La crítica de Le Guin a la contracultura —que el éxtasis colectivo de Woodst
 
 ### Chambers: más allá del deseo, la pregunta del sentido
 
-[[obras/monje_y_robot|Monk & Robot]] de [[autores/becky_chambers|Becky Chambers]] añade una dimensión que Fisher no tematiza. Fisher diagnostica que la izquierda abandonó el terreno del *deseo*; Chambers pregunta qué ocurre cuando el deseo está satisfecho. Dex vive en una sociedad amable, tiene trabajo significativo, no carece de nada —y sigue insatisfeche con una insatisfacción que no puede nombrar.
+[[obras/monje_y_robot|Monje y Robot]] de [[autores/becky_chambers|Becky Chambers]] añade una dimensión que Fisher no tematiza. Fisher diagnostica que la izquierda abandonó el terreno del *deseo*; Chambers pregunta qué ocurre cuando el deseo está satisfecho. Dex vive en una sociedad amable, tiene trabajo significativo, no carece de nada —y sigue insatisfeche con una insatisfacción que no puede nombrar.
 
 El problema de Chambers no es Fisher: no es la ausencia de placer sino la presencia de un vacío que ninguna provisión material o afectiva puede llenar completamente. Si Fisher señala el punto ciego de la izquierda austera (no ofrece deseo), Chambers señala el punto ciego del proyecto hedónico (ofrecer deseo no resuelve la pregunta del sentido). Son diagnósticos complementarios, no contradictorios.
 
@@ -93,7 +93,7 @@ La pregunta que abre: ¿puede haber un proyecto político que sea a la vez desea
 - [[conceptos/anarquismo|Anarquismo]] — tradición política que comparte el punto ciego
 - [[autores/ursula_k_le_guin|Ursula K. Le Guin]] — autora cuya elección filosófica estructura el problema
 - [[autores/jason_hickel|Jason Hickel]] — divulgador del decrecimiento cuya obra confirma el diagnóstico de Fisher
-- [[obras/monje_y_robot|Monk & Robot]] — Chambers añade la pregunta del sentido más allá del deseo: la dimensión que Fisher no tematiza
+- [[obras/monje_y_robot|Monje y Robot]] — Chambers añade la pregunta del sentido más allá del deseo: la dimensión que Fisher no tematiza
 
 ## Fuentes
 

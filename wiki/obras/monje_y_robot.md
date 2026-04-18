@@ -1,5 +1,5 @@
 ---
-title: "Monk & Robot (Un salmo para lo salvaje)"
+title: "Monje y Robot (Un salmo para lo salvaje)"
 type: obra
 date: 2026-04-18
 updated: 2026-04-18
@@ -7,7 +7,7 @@ sources: [raw/ficcion/monje_y_robot_notas_Miguel.md]
 tags: [solarpunk, post-escasez, cuidados, sentido, suficiencia, robots, rewilding, hopepunk]
 ---
 
-# Monk & Robot
+# Monje y Robot
 
 ## Resumen
 
@@ -57,7 +57,7 @@ Panga es el mundo que Bellota intenta construir sin saber si lo logrará. La pre
 
 ### Problemas y límites
 
-**La transición ausente**: Chambers muestra Panga ya transformada. No hay narrativa de cómo se llegó ahí —quién resistió, quién perdió, qué conflictos atravesó la sociedad. Esto es coherente con su proyecto literario, pero deja un vacío político. Es el reverso exacto de [[obras/inventar_el_futuro|Inventing the Future]]: S/W tienen arquitectura política pero no fenomenología del mundo post-transición; Chambers tiene la textura pero no la estrategia. El libro que combina ambas cosas está todavía por escribir.
+**La transición ausente**: Chambers muestra Panga ya transformada. No hay narrativa de cómo se llegó ahí —quién resistió, quién perdió, qué conflictos atravesó la sociedad. Esto es coherente con su proyecto literario, pero deja un vacío político. Es el reverso exacto de [[obras/inventar_el_futuro|Inventar el futuro]]: S/W tienen arquitectura política pero no fenomenología del mundo post-transición; Chambers tiene la textura pero no la estrategia. El libro que combina ambas cosas está todavía por escribir.
 
 **Conflicto atenuado**: Panga es notablemente libre de conflicto. No hay facciones políticas visibles, no hay desigualdad manifiesta. La amabilidad generalizada es encantadora pero evasiva. [[autores/ursula_k_le_guin|Le Guin]] fue más honesta: Anarres tiene burocracia, conformismo, gente que abusa de las normas compartidas. La cohesión de Panga queda sin explicar —¿es virtud o condición material específica?
 
@@ -67,7 +67,7 @@ Panga es el mundo que Bellota intenta construir sin saber si lo logrará. La pre
 
 - **vs. [[obras/los_desposeidos|Los Desposeídos]]**: Anarres y Panga son las dos sociedades de suficiencia de la wiki. Anarres tiene conflicto político visible pero reprime el desasosiego existencial bajo el deber. Panga confronta el desasosiego directamente pero atenúa el conflicto. Juntas trazan el mapa completo de lo que una sociedad buena puede y no puede resolver.
 - **vs. [[obras/less_is_more|Less Is More]]**: Panga es la visión de Hickel realizada. Pero Chambers añade lo que Hickel no puede ver: resolver las condiciones materiales no resuelve la cuestión del sentido. El desasosiego de Dex es el problema que existe al otro lado de la transición decrecentista.
-- **vs. [[obras/inventar_el_futuro|Inventing the Future]]**: Complementarios. S/W tienen la estrategia; Chambers tiene la textura. El libro ideal combinaría ambos.
+- **vs. [[obras/inventar_el_futuro|Inventar el futuro]]**: Complementarios. S/W tienen la estrategia; Chambers tiene la textura. El libro ideal combinaría ambos.
 - **vs. [[obras/cuatro_futuros|Cuatro Futuros]]**: Panga añade una dimensión que el mapa de Frase no tiene: la pregunta del sentido no desaparece en ninguno de los cuatro cuadrantes. La matriz abundancia/igualdad es necesaria pero no suficiente para describir el buen vivir.
 
 ## Referencias cruzadas
@@ -77,7 +77,7 @@ Panga es el mundo que Bellota intenta construir sin saber si lo logrará. La pre
 - [[conceptos/trabajo_de_cuidados|Trabajo de cuidados]] — la vocación del monje del té como forma institucionalizada del cuidado
 - [[obras/los_desposeidos|Los Desposeídos]] — la otra sociedad de suficiencia de la wiki; más conflicto, mismo punto ciego sobre el sentido
 - [[obras/less_is_more|Less Is More]] — Panga como su visión realizada y su límite mostrado
-- [[obras/inventar_el_futuro|Inventing the Future]] — la arquitectura que Chambers no tiene; la textura que S/W no tienen
+- [[obras/inventar_el_futuro|Inventar el futuro]] — la arquitectura que Chambers no tiene; la textura que S/W no tienen
 - [[obras/cuatro_futuros|Cuatro Futuros]] — Panga en el mapa de escenarios postcapitalistas [?]
 - [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]] — Chambers añade la dimensión del sentido al debate sobre el deseo
 

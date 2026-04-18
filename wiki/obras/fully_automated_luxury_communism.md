@@ -1,5 +1,5 @@
 ---
-title: "Fully Automated Luxury Communism"
+title: "Comunismo de lujo totalmente automatizado"
 type: obra
 date: 2026-04-18
 updated: 2026-04-18
@@ -7,7 +7,7 @@ sources: [https://www.societyandspace.org/articles/fully-automated-luxury-commun
 tags: [aceleracionismo, post-capitalismo, automatización, abundancia, lujo, tecnología]
 ---
 
-# Fully Automated Luxury Communism
+# Comunismo de lujo totalmente automatizado
 
 ## Resumen
 

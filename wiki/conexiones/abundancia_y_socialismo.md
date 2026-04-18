@@ -23,10 +23,10 @@ Abundancia como capacidad de producción y despliegue a gran escala. El problema
 **Suficiencia redistributiva (Hickel, [[obras/less_is_more|Less Is More]])**
 La abundancia de los ricos depende del despojo de los pobres y del planeta. El horizonte no es más producción sino menos extracción, más redistribución y recuperación de los comunes. La suficiencia —vivir bien con menos— reemplaza a la abundancia como meta. El problema de Klein y Thompson (la escasez artificial) existe, pero su causa es el capitalismo, no la regulación excesiva. Anticapitalista pero biofísicamente acotado.
 
-**Post-escasez tecnológica (Bastani, [[obras/fully_automated_luxury_communism|Fully Automated Luxury Communism]])**
+**Post-escasez tecnológica (Bastani, [[obras/fully_automated_luxury_communism|Comunismo de lujo totalmente automatizado]])**
 El capitalismo está construyendo las condiciones de su propia superación. La automatización, las energías renovables, la edición genética y —en el límite— la minería espacial pueden producir abundancia material universal a coste marginal cercano a cero, si se apropian democráticamente. "Lujo" no como privilegio sino como derecho universal. Anticapitalista como Hickel, pero en el eje opuesto: más tecnología, no menos metabolismo.
 
-**Abundancia vivida (solarpunk, [[obras/los_desposeidos|Los Desposeídos]] y [[obras/monje_y_robot|Monk & Robot]])**
+**Abundancia vivida (solarpunk, [[obras/los_desposeidos|Los Desposeídos]] y [[obras/monje_y_robot|Monje y Robot]])**
 Ni más producción ni más austeridad, sino transformación cualitativa de la experiencia. La abundancia no es tener más cosas sino tener más vida: tiempo, relaciones, creatividad, cuerpo, territorio. [[autores/becky_chambers|Chambers]] añade la pregunta más incómoda: incluso cuando esta visión se realiza —como en Panga— la pregunta del sentido persiste. La abundancia vivida puede ser la condición necesaria del buen vivir, pero no su garantía suficiente.
 
 ### El mapa de Frase
@@ -54,7 +54,7 @@ La pregunta que estos ejes abren: ¿puede haber una visión que sea a la vez ant
 
 Todas las visiones, con matices distintos, comparten el mismo déficit estructural: no tienen teoría de quién hace la transformación, a través de qué formas organizativas, contra qué resistencias concretas.
 
-En [[obras/abundance|Abundance]], el cambio ocurre dentro de instituciones reformadas. En [[obras/less_is_more|Less Is More]], los gobiernos "deben" y las sociedades "necesitan". En [[obras/fully_automated_luxury_communism|Fully Automated Luxury Communism]], la tecnología hace el trabajo político sin que se explique cómo se vence la resistencia de quienes hoy controlan esa tecnología mediante la propiedad intelectual. El pueblo como sujeto político está ausente en los tres. [[autores/srnicek_williams|Srnicek y Williams]] ([[obras/inventar_el_futuro|Inventing the Future]], 2015) tienen la teoría —hegemonía gramsciana, crítica de la folk politics, estrategia de partido-masa— que ninguno incorpora.
+En [[obras/abundance|Abundance]], el cambio ocurre dentro de instituciones reformadas. En [[obras/less_is_more|Less Is More]], los gobiernos "deben" y las sociedades "necesitan". En [[obras/fully_automated_luxury_communism|Comunismo de lujo totalmente automatizado]], la tecnología hace el trabajo político sin que se explique cómo se vence la resistencia de quienes hoy controlan esa tecnología mediante la propiedad intelectual. El pueblo como sujeto político está ausente en los tres. [[autores/srnicek_williams|Srnicek y Williams]] ([[obras/inventar_el_futuro|Inventar el futuro]], 2015) tienen la teoría —hegemonía gramsciana, crítica de la folk politics, estrategia de partido-masa— que ninguno incorpora.
 
 La ficción solarpunk y Le Guin esquivan la pregunta de otra manera: imaginan el mundo después de la transición sin teorizar la transición misma.
 
@@ -87,12 +87,12 @@ Si el solarpunk logra esto o si reproduce en formas más coloridas el punto cieg
 
 - [[obras/abundance|Abundance]] — abundancia técnica dentro del capitalismo
 - [[obras/less_is_more|Less Is More]] — suficiencia redistributiva
-- [[obras/fully_automated_luxury_communism|Fully Automated Luxury Communism]] — post-escasez tecnológica anticapitalista
+- [[obras/fully_automated_luxury_communism|Comunismo de lujo totalmente automatizado]] — post-escasez tecnológica anticapitalista
 - [[obras/los_desposeidos|Los Desposeídos]] — suficiencia vivida y sus costes afectivos
 - [[conceptos/decrecimiento|Decrecimiento]] — el marco político de la suficiencia
 - [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la dimensión hedónica que las visiones resuelven de forma diferente
 - [[conceptos/anarquismo|Anarquismo]] — Anarres como experimento de suficiencia vivida
-- [[obras/inventar_el_futuro|Inventing the Future]] — la teoría del agente ausente en todas las visiones
+- [[obras/inventar_el_futuro|Inventar el futuro]] — la teoría del agente ausente en todas las visiones
 - [[obras/cuatro_futuros|Cuatro Futuros]] — el mapa de escenarios postcapitalistas que ordena las visiones
 
 ## Fuentes

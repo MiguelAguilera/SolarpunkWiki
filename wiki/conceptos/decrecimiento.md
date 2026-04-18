@@ -38,7 +38,7 @@ Kohei Saito (véase [[obras/less_is_more|Less Is More]]) intenta resolver esta t
 
 El punto débil más grave del decrecimiento como proyecto político: ausencia de teoría de quién lo hace, a través de qué formas organizativas, contra qué resistencias concretas. Las propuestas de [[obras/less_is_more|Less Is More]] oscilan entre tres estratos políticos con lógicas incompatibles (reformas socialdemócratas / reforma del orden global / horizontalismo indigenista) que no conecta mediante ninguna teoría de cómo uno habilita al siguiente.
 
-Los sindicatos y el concepto de Transición Justa —qué ocurre con los trabajadores de los sectores que hay que reducir— están conspicuamente ausentes en la literatura decrecentista mainstream. [[autores/srnicek_williams|Srnicek y Williams]] ([[obras/inventar_el_futuro|Inventing the Future]], 2015) ofrecen el marco político que el decrecimiento necesita pero no ha elaborado.
+Los sindicatos y el concepto de Transición Justa —qué ocurre con los trabajadores de los sectores que hay que reducir— están conspicuamente ausentes en la literatura decrecentista mainstream. [[autores/srnicek_williams|Srnicek y Williams]] ([[obras/inventar_el_futuro|Inventar el futuro]], 2015) ofrecen el marco político que el decrecimiento necesita pero no ha elaborado.
 
 ### El problema del hedonismo
 
@@ -74,7 +74,7 @@ Si la tesis de Butler es correcta, el decrecimiento necesita no solo un programa
 
 ### Panga como el día después
 
-[[obras/monje_y_robot|Monk & Robot]] de [[autores/becky_chambers|Becky Chambers]] aporta lo que ningún libro de no ficción de la wiki puede: la fenomenología del mundo al otro lado de la transición decrecentista. Panga resolvió sus problemas materiales —abandonó los fósiles, restauró los ecosistemas, organizó la sociedad en torno a la suficiencia. Y su personaje central, Dex, sigue insatisfeche.
+[[obras/monje_y_robot|Monje y Robot]] de [[autores/becky_chambers|Becky Chambers]] aporta lo que ningún libro de no ficción de la wiki puede: la fenomenología del mundo al otro lado de la transición decrecentista. Panga resolvió sus problemas materiales —abandonó los fósiles, restauró los ecosistemas, organizó la sociedad en torno a la suficiencia. Y su personaje central, Dex, sigue insatisfeche.
 
 La ampliación es incómoda pero necesaria: la visión de Hickel, si se realizara, te dejaría exactamente en el problema de Dex. La sociedad buena y la vida plena no son la misma cosa. El decrecimiento puede resolver las condiciones materiales; no puede resolver la pregunta del sentido.
 
@@ -85,7 +85,7 @@ La ampliación es incómoda pero necesaria: la visión de Hickel, si se realizar
 ## Tensiones entre fuentes
 
 - **[[obras/less_is_more|Less Is More]] vs. [[obras/los_desposeidos|Los Desposeídos]]:** Hickel teoriza principios que Anarres practica; Le Guin es más honesta sobre sus costes afectivos y culturales.
-- **Decrecimiento vs. aceleracionismo:** [[autores/aaron_bastani|Bastani]] ([[obras/fully_automated_luxury_communism|Fully Automated Luxury Communism]]) acepta la dialéctica marxista —el capitalismo construye las condiciones de su superación— mientras el decrecimiento quiere la condena sin la dialéctica. Limitaciones simétricas: Bastani más políticamente anclado, Hickel más biofísicamente serio.
+- **Decrecimiento vs. aceleracionismo:** [[autores/aaron_bastani|Bastani]] ([[obras/fully_automated_luxury_communism|Comunismo de lujo totalmente automatizado]]) acepta la dialéctica marxista —el capitalismo construye las condiciones de su superación— mientras el decrecimiento quiere la condena sin la dialéctica. Limitaciones simétricas: Bastani más políticamente anclado, Hickel más biofísicamente serio.
 
 ## Referencias cruzadas
 
@@ -94,8 +94,8 @@ La ampliación es incómoda pero necesaria: la visión de Hickel, si se realizar
 - [[conceptos/comunes|Comunes]] — la propuesta institucional alternativa al mercado y al Estado
 - [[conceptos/acid_communism|Comunismo Ácido]] — el problema del hedonismo en la política decrecentista
 - [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la conexión entre la falta de deseo en Anarres y en el decrecimiento real
-- [[obras/fully_automated_luxury_communism|Fully Automated Luxury Communism]] — la antítesis aceleracionista: más tecnología, no menos metabolismo
-- [[obras/monje_y_robot|Monk & Robot]] — Panga como la fenomenología del día después; el desasosiego que persiste más allá de la transición
+- [[obras/fully_automated_luxury_communism|Comunismo de lujo totalmente automatizado]] — la antítesis aceleracionista: más tecnología, no menos metabolismo
+- [[obras/monje_y_robot|Monje y Robot]] — Panga como la fenomenología del día después; el desasosiego que persiste más allá de la transición
 - [[obras/parabola_del_sembrador|La Parábola del Sembrador]] — la tesis del colapso como límite del programa reformista
 - [[conceptos/colapso|Colapso]] — el escenario en que las instituciones se degradan más rápido de lo que se pueden reformar
 - [[conceptos/politica_prefigurativa|Política prefigurativa]] — la respuesta micro al colapso; sus límites de escala

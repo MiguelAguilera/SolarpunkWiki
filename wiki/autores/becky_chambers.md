@@ -11,7 +11,7 @@ tags: [solarpunk, hopepunk, ciencia-ficcion, cuidados, etica, relaciones, poshum
 
 ## Resumen
 
-Escritora canadiense-estadounidense de ciencia ficción. Su obra más conocida es la serie Wayfarers (2015–2021) y la serie Monk & Robot (2021–2022). Chambers es la figura central del llamado *hopepunk*: ficciones de ciencia ficción que rechazan la distopía como único horizonte imaginable y proponen mundos donde la amabilidad, el cuidado y la cooperación son fuerzas políticas reales. A diferencia de la mayoría de la SF solarpunk, su trabajo opera a escala íntima —dos personajes, una conversación— y su aportación más original no es el programa político sino la fenomenología del buen vivir.
+Escritora canadiense-estadounidense de ciencia ficción. Su obra más conocida es la serie Wayfarers (2015–2021) y la serie Monje y Robot (2021–2022). Chambers es la figura central del llamado *hopepunk*: ficciones de ciencia ficción que rechazan la distopía como único horizonte imaginable y proponen mundos donde la amabilidad, el cuidado y la cooperación son fuerzas políticas reales. A diferencia de la mayoría de la SF solarpunk, su trabajo opera a escala íntima —dos personajes, una conversación— y su aportación más original no es el programa político sino la fenomenología del buen vivir.
 
 ## Contenido principal
 
@@ -23,7 +23,7 @@ La escala íntima es una elección filosófica, no solo estética. Sugiere que e
 
 ### Obras en la wiki
 
-- [[obras/monje_y_robot|Monk & Robot]] (2021–2022) — serie sobre una sociedad post-transición y la pregunta del sentido
+- [[obras/monje_y_robot|Monje y Robot]] (2021–2022) — serie sobre una sociedad post-transición y la pregunta del sentido
 
 ### Preocupaciones recurrentes
 
@@ -46,7 +46,7 @@ Comparada con [[autores/ursula_k_le_guin|Le Guin]], Chambers es más amable y me
 
 ## Referencias cruzadas
 
-- [[obras/monje_y_robot|Monk & Robot]] — obra principal en la wiki
+- [[obras/monje_y_robot|Monje y Robot]] — obra principal en la wiki
 - [[autores/ursula_k_le_guin|Ursula K. Le Guin]] — referente de la SF política; más honesta sobre el conflicto en la sociedad buena
 - [[conceptos/trabajo_de_cuidados|Trabajo de cuidados]] — la vocación del monje del té como su forma institucionalizada
 - [[conceptos/epistemologia_no_extractiva|Epistemología no extractiva]] — el modo de conocer que dramatiza su obra

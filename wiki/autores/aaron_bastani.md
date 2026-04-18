@@ -11,7 +11,7 @@ tags: [aceleracionismo, post-capitalismo, automatización, izquierda-británica,
 
 ## Resumen
 
-Comentarista político británico, cofundador del medio de comunicación de izquierda Novara Media. Su obra más conocida, *Fully Automated Luxury Communism* (2019), lo sitúa dentro de la tradición aceleracionista de izquierda: la tesis de que el capitalismo está construyendo las condiciones tecnológicas de su propia superación, y que la izquierda debe apropiarse de esa tecnología en lugar de resistirla.
+Comentarista político británico, cofundador del medio de comunicación de izquierda Novara Media. Su obra más conocida, *Comunismo de lujo totalmente automatizado* (2019), lo sitúa dentro de la tradición aceleracionista de izquierda: la tesis de que el capitalismo está construyendo las condiciones tecnológicas de su propia superación, y que la izquierda debe apropiarse de esa tecnología en lugar de resistirla.
 
 ## Contenido principal
 
@@ -23,7 +23,7 @@ Su aceleracionismo de izquierda lo distingue tanto del aceleracionismo liberal d
 
 ### Obras en la wiki
 
-- [[obras/fully_automated_luxury_communism|Fully Automated Luxury Communism]] (2019) — manifiesto postcapitalista aceleracionista
+- [[obras/fully_automated_luxury_communism|Comunismo de lujo totalmente automatizado]] (2019) — manifiesto postcapitalista aceleracionista
 
 ### Preocupaciones recurrentes
 
@@ -38,7 +38,7 @@ Las reseñas académicas señalan consistentemente la misma debilidad: Bastani n
 
 ## Referencias cruzadas
 
-- [[obras/fully_automated_luxury_communism|Fully Automated Luxury Communism]] — obra principal
+- [[obras/fully_automated_luxury_communism|Comunismo de lujo totalmente automatizado]] — obra principal
 - [[conceptos/decrecimiento|Decrecimiento]] — la antítesis biofísica más directa
 - [[conexiones/abundancia_y_socialismo|Abundancia y socialismo]] — FALC en contraste con otras visiones de abundancia
 - [[conceptos/acid_communism|Comunismo Ácido]] — convergencia en el rechazo a la austeridad; divergencia en el camino

@@ -11,7 +11,7 @@ tags: [aceleracionismo, post-trabajo, hegemonía, folk-politics, izquierda-brit�
 
 ## Resumen
 
-Teóricos políticos británicos asociados al aceleracionismo de izquierda. Su colaboración más influyente, *Inventing the Future* (2015), ofrece el análisis político más riguroso de la izquierda contemporánea presente en la wiki: la crítica de la folk politics, la propuesta hegemónica, y las cuatro demandas del post-trabajo. Son la respuesta al "agente ausente" que la wiki identifica repetidamente como defecto compartido de Hickel, Bastani y Klein/Thompson.
+Teóricos políticos británicos asociados al aceleracionismo de izquierda. Su colaboración más influyente, *Inventar el futuro* (2015), ofrece el análisis político más riguroso de la izquierda contemporánea presente en la wiki: la crítica de la folk politics, la propuesta hegemónica, y las cuatro demandas del post-trabajo. Son la respuesta al "agente ausente" que la wiki identifica repetidamente como defecto compartido de Hickel, Bastani y Klein/Thompson.
 
 ## Contenido principal
 
@@ -19,11 +19,11 @@ Teóricos políticos británicos asociados al aceleracionismo de izquierda. Su c
 
 Nick Srnicek (canadiense, profesor en King's College London) y Alex Williams (británico, teórico político) surgieron del mismo ecosistema intelectual que Fisher y Gilbert —la izquierda británica del periodo post-crisis de 2008— pero con una orientación diferente: más estratégica que cultural, más gramsciana que psicoanalítica.
 
-Su *#ACCELERATE Manifesto* (2013, con otros) lanzó la discusión sobre aceleracionismo de izquierda. *Inventing the Future* (2015) fue la elaboración programática. Srnicek continuó con *Platform Capitalism* (2016), que se convirtió en referencia estándar sobre la economía de plataformas digitales.
+Su *#ACCELERATE Manifesto* (2013, con otros) lanzó la discusión sobre aceleracionismo de izquierda. *Inventar el futuro* (2015) fue la elaboración programática. Srnicek continuó con *Platform Capitalism* (2016), que se convirtió en referencia estándar sobre la economía de plataformas digitales.
 
 ### Obras en la wiki
 
-- [[obras/inventar_el_futuro|Inventing the Future]] (2015) — crítica de la folk politics y programa post-trabajo
+- [[obras/inventar_el_futuro|Inventar el futuro]] (2015) — crítica de la folk politics y programa post-trabajo
 
 ### Linaje intelectual
 
@@ -38,7 +38,7 @@ S/W son el eslabón que conecta las visiones de abundancia con una teoría polí
 
 ## Referencias cruzadas
 
-- [[obras/inventar_el_futuro|Inventing the Future]] — obra principal en la wiki
+- [[obras/inventar_el_futuro|Inventar el futuro]] — obra principal en la wiki
 - [[conceptos/decrecimiento|Decrecimiento]] — el movimiento que necesita su marco político
 - [[conexiones/abundancia_y_socialismo|Abundancia y socialismo]] — S/W como la teoría del agente ausente en todas las visiones
 - [[conceptos/anarquismo|Anarquismo]] — tradición con la que S/W tienen tensión directa (folk politics)

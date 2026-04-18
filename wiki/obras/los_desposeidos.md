@@ -80,7 +80,7 @@ Le Guin muestra el problema de la calcificación; Butler muestra el problema de 
 
 ### Anarres y Panga: las dos sociedades de suficiencia
 
-[[obras/monje_y_robot|Monk & Robot]] de [[autores/becky_chambers|Becky Chambers]] es el texto que más directamente dialoga con *Los Desposeídos* en la wiki. Ambas son sociedades organizadas en torno a la suficiencia; sus diferencias son reveladoras:
+[[obras/monje_y_robot|Monje y Robot]] de [[autores/becky_chambers|Becky Chambers]] es el texto que más directamente dialoga con *Los Desposeídos* en la wiki. Ambas son sociedades organizadas en torno a la suficiencia; sus diferencias son reveladoras:
 
 Anarres tiene conflicto político visible —la burocracia del PDT, la presión conformista, el caso Shevek— pero reprime el desasosiego existencial bajo el deber. Panga atenúa el conflicto hasta hacerlo casi invisible pero confronta el desasosiego directamente: Dex tiene todo lo que Anarres promete y sigue insatisfeche. Le Guin fue más honesta sobre el conflicto; Chambers es más honesta sobre el sentido. Juntas trazan el mapa completo de lo que una sociedad buena puede y no puede resolver.
 
@@ -91,7 +91,7 @@ Anarres tiene conflicto político visible —la burocracia del PDT, la presión 
 - [[conceptos/acid_communism|Comunismo Ácido]] — vocabulario para el punto ciego hedónico de la novela
 - [[conceptos/decrecimiento|Decrecimiento]] — Anarres como experimento mental de suficiencia
 - [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la conexión entre este punto ciego y el decrecimiento contemporáneo
-- [[obras/monje_y_robot|Monk & Robot]] — Panga como contrapunto: más amable que Anarres, más honesta sobre el sentido
+- [[obras/monje_y_robot|Monje y Robot]] — Panga como contrapunto: más amable que Anarres, más honesta sobre el sentido
 - [[obras/parabola_del_sembrador|La Parábola del Sembrador]] — Bellota como el tercer punto del tríptico: fundación cruda antes de la institucionalización
 - [[conceptos/politica_prefigurativa|Política prefigurativa]] — el ciclo completo Bellota → Anarres → Panga
 

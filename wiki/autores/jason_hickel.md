@@ -27,7 +27,7 @@ Su posición intelectual es la del intelectual cosmopolita de formación cristia
 
 ### La paradoja del Hickel de 2012
 
-En su artículo sobre Occupy Wall Street (2012), Hickel articulaba la crítica de la folk politics casi exactamente como [[autores/srnicek_williams|Srnicek y Williams]] la desarrollarían en [[obras/inventar_el_futuro|Inventing the Future]] (2015): la fetichización de la diversidad, la plataforma sin demandas como debilidad política, la necesidad de definir adversarios, la cita explícita de Laclau y Mouffe sobre el antagonismo. Tenía las herramientas analíticas. El problema de *Less Is More* es que las dejó a un lado cuando escribió para una audiencia popular.
+En su artículo sobre Occupy Wall Street (2012), Hickel articulaba la crítica de la folk politics casi exactamente como [[autores/srnicek_williams|Srnicek y Williams]] la desarrollarían en [[obras/inventar_el_futuro|Inventar el futuro]] (2015): la fetichización de la diversidad, la plataforma sin demandas como debilidad política, la necesidad de definir adversarios, la cita explícita de Laclau y Mouffe sobre el antagonismo. Tenía las herramientas analíticas. El problema de *Less Is More* es que las dejó a un lado cuando escribió para una audiencia popular.
 
 ### El giro de 2025
 

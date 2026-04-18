@@ -51,20 +51,20 @@ Esta crítica no invalida el programa de Bastani, pero sí señala que la lucha 
 
 - **vs. [[obras/fully_automated_luxury_communism|FALC]]**: Bastani asume que llegamos al comunismo de Frase; Frase muestra que sin lucha política podemos llegar al rentismo. El marco de Frase es el correctivo necesario al optimismo tecnológico de Bastani.
 - **vs. [[obras/less_is_more|Less Is More]]**: Hickel opera en el cuadrante socialismo de Frase (escasez + igualdad). La diferencia: Hickel no tiene teoría del agente para llegar ahí; Frase no pretende tenerla pero al menos nombra los obstáculos.
-- **vs. [[obras/inventar_el_futuro|Inventing the Future]]**: S/W tienen la estrategia hegemónica para navegar entre estos escenarios; Frase tiene el mapa. Son complementarios: el mapa sin estrategia es contemplación; la estrategia sin mapa es navegación ciega.
+- **vs. [[obras/inventar_el_futuro|Inventar el futuro]]**: S/W tienen la estrategia hegemónica para navegar entre estos escenarios; Frase tiene el mapa. Son complementarios: el mapa sin estrategia es contemplación; la estrategia sin mapa es navegación ciega.
 - **vs. [[obras/los_desposeidos|Los Desposeídos]]**: Anarres vive en el cuadrante socialismo de Frase —escasez gestionada con igualdad. Le Guin muestra que ese cuadrante es alcanzable y sostenible durante generaciones, pero al precio afectivo que el marco de Frase no tematiza.
-- **vs. [[obras/monje_y_robot|Monk & Robot]]**: Panga también habita el cuadrante socialismo o comunismo [?], pero Chambers añade una dimensión que el mapa de Frase ignora por completo: incluso en el mejor cuadrante, la pregunta del sentido persiste. La matriz abundancia/igualdad es necesaria pero no suficiente para describir el buen vivir.
+- **vs. [[obras/monje_y_robot|Monje y Robot]]**: Panga también habita el cuadrante socialismo o comunismo [?], pero Chambers añade una dimensión que el mapa de Frase ignora por completo: incluso en el mejor cuadrante, la pregunta del sentido persiste. La matriz abundancia/igualdad es necesaria pero no suficiente para describir el buen vivir.
 - **vs. [[obras/parabola_del_sembrador|La Parábola del Sembrador]]**: El mundo de Butler *es* el exterminismo activo. Bellota es un bolsillo de resistencia que intenta construir socialismo desde dentro del peor cuadrante. Butler añade lo que el mapa de Frase no puede mostrar: cómo se vive el exterminismo desde abajo, y qué se puede construir dentro de él.
 
 ## Referencias cruzadas
 
 - [[autores/peter_frase|Peter Frase]] — contexto intelectual del autor
 - [[conexiones/abundancia_y_socialismo|Abundancia y socialismo]] — los cuatro futuros como marco para las visiones de la wiki
-- [[obras/fully_automated_luxury_communism|Fully Automated Luxury Communism]] — el comunismo de Frase como horizonte de Bastani; el rentismo como su crítica
+- [[obras/fully_automated_luxury_communism|Comunismo de lujo totalmente automatizado]] — el comunismo de Frase como horizonte de Bastani; el rentismo como su crítica
 - [[obras/less_is_more|Less Is More]] — el socialismo de Frase como horizonte de Hickel
-- [[obras/inventar_el_futuro|Inventing the Future]] — la estrategia hegemónica que el mapa de Frase necesita
+- [[obras/inventar_el_futuro|Inventar el futuro]] — la estrategia hegemónica que el mapa de Frase necesita
 - [[obras/los_desposeidos|Los Desposeídos]] — Anarres como socialismo de Frase vivido durante generaciones
-- [[obras/monje_y_robot|Monk & Robot]] — Panga en el mapa de Frase, más la dimensión del sentido que el mapa no tiene
+- [[obras/monje_y_robot|Monje y Robot]] — Panga en el mapa de Frase, más la dimensión del sentido que el mapa no tiene
 - [[conceptos/decrecimiento|Decrecimiento]] — el exterminismo como escenario si el decrecimiento falla
 
 ## Fuentes

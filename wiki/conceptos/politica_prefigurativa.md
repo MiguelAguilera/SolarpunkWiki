@@ -11,7 +11,7 @@ tags: [prefiguracion, anarquismo, comunidad-intencional, transicion, folk-politi
 
 ## Resumen
 
-La práctica de construir en el presente las relaciones sociales y formas organizativas del mundo que se quiere crear. No "primero la revolución, luego la sociedad nueva" sino "la sociedad nueva como práctica constante de transformación desde ahora." La wiki trabaja el concepto a través de tres ficciones que muestran tres momentos distintos de su ciclo: Bellota en [[obras/parabola_del_sembrador|La Parábola del Sembrador]] (fundación cruda), Anarres en [[obras/los_desposeidos|Los Desposeídos]] (institucionalización), y Panga en [[obras/monje_y_robot|Monk & Robot]] (resolución). Cada una ilumina un problema distinto.
+La práctica de construir en el presente las relaciones sociales y formas organizativas del mundo que se quiere crear. No "primero la revolución, luego la sociedad nueva" sino "la sociedad nueva como práctica constante de transformación desde ahora." La wiki trabaja el concepto a través de tres ficciones que muestran tres momentos distintos de su ciclo: Bellota en [[obras/parabola_del_sembrador|La Parábola del Sembrador]] (fundación cruda), Anarres en [[obras/los_desposeidos|Los Desposeídos]] (institucionalización), y Panga en [[obras/monje_y_robot|Monje y Robot]] (resolución). Cada una ilumina un problema distinto.
 
 ## Contenido principal
 
@@ -27,7 +27,7 @@ Las tres ficciones de suficiencia de la wiki muestran momentos distintos del mis
 
 ### La crítica de Srnicek y Williams
 
-[[autores/srnicek_williams|Srnicek y Williams]] en [[obras/inventar_el_futuro|Inventing the Future]] formulan la crítica más directa a la política prefigurativa desde la izquierda no anarquista: la fetichización de las formas pequeñas, locales y horizontales —lo que llaman [[conceptos/anarquismo|folk politics]]— no puede desafiar el poder sistémico. La prefiguración produce comunidades auténticas pero frágiles.
+[[autores/srnicek_williams|Srnicek y Williams]] en [[obras/inventar_el_futuro|Inventar el futuro]] formulan la crítica más directa a la política prefigurativa desde la izquierda no anarquista: la fetichización de las formas pequeñas, locales y horizontales —lo que llaman [[conceptos/anarquismo|folk politics]]— no puede desafiar el poder sistémico. La prefiguración produce comunidades auténticas pero frágiles.
 
 La destrucción de Bellota por el fascismo cristiano organizado en *La Parábola de los Talentos* confirma empíricamente esta crítica: el modelo de transmisión paciente y basada en la práctica es vulnerable ante la violencia institucional. Una comunidad prefigurativa que no resuelve el problema del poder coercitivo externo puede ser destruida antes de escalar.
 
@@ -55,9 +55,9 @@ Esto tiene implicaciones para el decrecimiento y el ecosocialismo: la forma más
 
 - [[obras/parabola_del_sembrador|La Parábola del Sembrador]] — Bellota como prefiguración en fase cruda; la transmisión práctica de Earthseed
 - [[obras/los_desposeidos|Los Desposeídos]] — Anarres como prefiguración institucionalizada y calcificándose
-- [[obras/monje_y_robot|Monk & Robot]] — Panga como prefiguración resuelta, sin mostrar el proceso
+- [[obras/monje_y_robot|Monje y Robot]] — Panga como prefiguración resuelta, sin mostrar el proceso
 - [[conceptos/anarquismo|Anarquismo]] — el hogar teórico de la política prefigurativa
-- [[obras/inventar_el_futuro|Inventing the Future]] — la crítica de S/W: la prefiguración no puede escalar sin estrategia hegemónica
+- [[obras/inventar_el_futuro|Inventar el futuro]] — la crítica de S/W: la prefiguración no puede escalar sin estrategia hegemónica
 - [[conceptos/colapso|Colapso]] — las condiciones bajo las que la prefiguración de Bellota emerge
 
 ## Fuentes

@@ -11,7 +11,7 @@ tags: [epistemologia, cuidados, conocimiento, animismo, post-desarrollo, federic
 
 ## Resumen
 
-Un modo de conocer que no reduce el objeto de conocimiento a recurso. Se opone a la epistemología extractiva del capitalismo moderno —que conoce para usar, cuantificar y controlar— y aparece dramatizada en la wiki principalmente a través de [[obras/monje_y_robot|Monk & Robot]] de Chambers, pero también en [[autores/ursula_k_le_guin|Le Guin]], en las críticas de [[autores/silvia_federici|Federici]] [?] a la destrucción del saber encarnado, y en la tradición post-desarrollista (Escobar, Esteva [?]).
+Un modo de conocer que no reduce el objeto de conocimiento a recurso. Se opone a la epistemología extractiva del capitalismo moderno —que conoce para usar, cuantificar y controlar— y aparece dramatizada en la wiki principalmente a través de [[obras/monje_y_robot|Monje y Robot]] de Chambers, pero también en [[autores/ursula_k_le_guin|Le Guin]], en las críticas de [[autores/silvia_federici|Federici]] [?] a la destrucción del saber encarnado, y en la tradición post-desarrollista (Escobar, Esteva [?]).
 
 ## Contenido principal
 
@@ -23,7 +23,7 @@ La ciencia moderna occidental, en la versión crítica de este concepto, no es s
 
 ### La epistemología no extractiva en la ficción
 
-**Becky Chambers** es quien más explícitamente la dramatiza. En [[obras/monje_y_robot|Monk & Robot]], Mosscap conoce el bosque por inmersión directa durante generaciones, no por extracción sistemática. Su saber es encarnado, relacional, no jerarquizado. Cuando se acerca a los humanos, no los interroga —les hace preguntas genuinas sin agenda y acepta respuestas incompletas. El monje del té Dex opera con la misma disposición: la presencia sin agenda, la escucha sin instrumentalización.
+**Becky Chambers** es quien más explícitamente la dramatiza. En [[obras/monje_y_robot|Monje y Robot]], Mosscap conoce el bosque por inmersión directa durante generaciones, no por extracción sistemática. Su saber es encarnado, relacional, no jerarquizado. Cuando se acerca a los humanos, no los interroga —les hace preguntas genuinas sin agenda y acepta respuestas incompletas. El monje del té Dex opera con la misma disposición: la presencia sin agenda, la escucha sin instrumentalización.
 
 En [[autores/ursula_k_le_guin|Le Guin]], Shevek se relaciona con la física como curiosidad genuina, no como control. La física del tiempo que desarrolla en [[obras/los_desposeidos|Los Desposeídos]] no surge de la voluntad de dominar el tiempo sino de querer *entenderlo*. Cuando comparte la teoría con el mundo, lo hace sin condiciones —un gesto que la novela presenta como el acto político más radical posible.
 
@@ -41,7 +41,7 @@ Pero Chambers señala el límite de Rogers: el encuentro más valioso no es aque
 
 ## Referencias cruzadas
 
-- [[obras/monje_y_robot|Monk & Robot]] — dramatización más completa del concepto
+- [[obras/monje_y_robot|Monje y Robot]] — dramatización más completa del concepto
 - [[obras/los_desposeidos|Los Desposeídos]] — Shevek como científico no extractivo
 - [[conceptos/trabajo_de_cuidados|Trabajo de cuidados]] — el cuidado como práctica no extractiva por excelencia
 - [[autores/becky_chambers|Becky Chambers]] — autora que más explícitamente trabaja la disposición ética asociada
