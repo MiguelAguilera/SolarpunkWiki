@@ -23,16 +23,16 @@ Su diagnóstico —el socioliberalismo ha construido demasiados mecanismos de ve
 
 ### Obras en la wiki
 
-- [[abundance|Abundance]] (2024) — reforma del liberalismo progresista para recuperar capacidad estatal
+- [[obras/abundance|Abundance]] (2024) — reforma del liberalismo progresista para recuperar capacidad estatal
 
 ### Distancias notables
 
-A diferencia de [[jason-hickel|Jason Hickel]], no tienen formación en economía política ni en la tradición crítica. A diferencia de Srnicek y Williams (*Inventing the Future*), no tienen teoría de la hegemonía ni del agente del cambio. Su fortaleza está en el diagnóstico institucional concreto y en el acceso a una audiencia muy amplia; su debilidad, en la ausencia de marco estructural.
+A diferencia de [[autores/jason-hickel|Jason Hickel]], no tienen formación en economía política ni en la tradición crítica. A diferencia de Srnicek y Williams (*Inventing the Future*), no tienen teoría de la hegemonía ni del agente del cambio. Su fortaleza está en el diagnóstico institucional concreto y en el acceso a una audiencia muy amplia; su debilidad, en la ausencia de marco estructural.
 
 ## Referencias cruzadas
 
-- [[abundance|Abundance]] — obra principal en la wiki
-- [[abundancia-tres-modelos|Abundancia: Tres Modelos en Tensión]] — su concepción de abundancia en contraste con Hickel y el solarpunk
+- [[obras/abundance|Abundance]] — obra principal en la wiki
+- [[conexiones/abundancia-tres-modelos|Abundancia: Tres Modelos en Tensión]] — su concepción de abundancia en contraste con Hickel y el solarpunk
 
 ## Fuentes
 

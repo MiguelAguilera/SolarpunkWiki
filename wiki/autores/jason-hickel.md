@@ -23,7 +23,7 @@ Su posición intelectual es la del intelectual cosmopolita de formación cristia
 
 ### Obras en la wiki
 
-- [[less-is-more|Less Is More]] (2020) — manifiesto ecosocialista de divulgación
+- [[obras/less-is-more|Less Is More]] (2020) — manifiesto ecosocialista de divulgación
 
 ### La paradoja del Hickel de 2012
 
@@ -55,9 +55,9 @@ La respuesta del movimiento decrecentista ha sido airada: lo acusan de disolver 
 
 ## Referencias cruzadas
 
-- [[less-is-more|Less Is More]] — obra principal en la wiki
-- [[decrecimiento|Decrecimiento]] — concepto central de su obra
-- [[comunes|Comunes]] — propuesta alternativa que desarrolla
+- [[obras/less-is-more|Less Is More]] — obra principal en la wiki
+- [[conceptos/decrecimiento|Decrecimiento]] — concepto central de su obra
+- [[conceptos/comunes|Comunes]] — propuesta alternativa que desarrolla
 
 ## Fuentes
 

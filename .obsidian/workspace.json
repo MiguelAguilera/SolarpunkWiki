@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/indice.md",
+                "file": "wiki/obras/los_desposeidos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "indice"
+              "title": "los_desposeidos"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "8ebba95c4d2bd6e4",
   "lastOpenFiles": [
+    "CLAUDE.md.tmp.261433.1776506614982",
+    "wiki/indice.md",
     "wiki/obras/los_desposeidos.md.tmp.261433.1776506175813",
     "wiki/conceptos/acid-communism.md.tmp.261433.1776466961350",
     "wiki/conceptos/acid-communism.md.tmp.261433.1776466960490",
@@ -195,14 +197,12 @@
     "wiki/indice.md.tmp.261433.1776466901602",
     "wiki/obras/less-is-more.md",
     "wiki/obras/abundance.md",
-    "wiki/indice.md",
     "wiki/autores/ursula_k_le_guin.md",
     "wiki/obras/los_desposeidos.md",
     "wiki/autores/jason-hickel.md",
     "wiki/registro.md",
     "wiki/autores/ursula_k_le_guin.md.tmp.261433.1776466678477",
     "wiki/obras/less-is-more.md.tmp.261433.1776466677816",
-    "wiki/conexiones/revolucion-hedonismo-decrecimiento.md.tmp.261433.1776466676440",
     "los-desposeidos.md",
     "README.md",
     "CLAUDE.md",

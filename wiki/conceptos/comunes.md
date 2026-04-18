@@ -11,7 +11,7 @@ etiquetas: [comunes, ostrom, federici, gobernanza, capitalismo, enclosures]
 
 ## Resumen
 
-Recursos gestionados colectivamente por una comunidad mediante reglas elaboradas y mantenidas por sus propios miembros, fuera de la lógica del mercado y del Estado. El concepto tiene dos tradiciones principales en la wiki: la historia de su destrucción por el capitalismo (Federici) y la teoría de su gobernanza efectiva (Ostrom). [[less-is-more|Less Is More]] invoca ambas como alternativa al crecimiento, pero sin el aparato crítico completo de ninguna de las dos.
+Recursos gestionados colectivamente por una comunidad mediante reglas elaboradas y mantenidas por sus propios miembros, fuera de la lógica del mercado y del Estado. El concepto tiene dos tradiciones principales en la wiki: la historia de su destrucción por el capitalismo (Federici) y la teoría de su gobernanza efectiva (Ostrom). [[obras/less-is-more|Less Is More]] invoca ambas como alternativa al crecimiento, pero sin el aparato crítico completo de ninguna de las dos.
 
 ## Contenido principal
 
@@ -29,7 +29,7 @@ La implicación política: el capitalismo no surgió espontáneamente del interc
 
 Elinor Ostrom (Premio Nobel de Economía, 2009) demostró empíricamente que los comunes pueden gestionarse de forma sostenible y eficiente sin privatización ni regulación estatal, cuando las comunidades desarrollan sistemas elaborados de reglas. Sus ocho principios de diseño incluyen: límites claramente definidos, reglas adaptadas al contexto local, mecanismos de resolución de conflictos, reconocimiento externo del derecho a organizarse.
 
-La implicación crítica que [[less-is-more|Less Is More]] no tematiza suficientemente: los comunes de Ostrom no son reciprocidad espontánea. Son construcción ardua —trabajo institucional continuo, mecanismos de exclusión, resolución de conflictos. La gestión comunal exitosa requiere exactamente el tipo de trabajo organizativo que el horizontalismo espontáneo tiende a subestimar. Véase [[anarquismo|Anarquismo]] para la tensión paralela en contextos horizontales.
+La implicación crítica que [[obras/less-is-more|Less Is More]] no tematiza suficientemente: los comunes de Ostrom no son reciprocidad espontánea. Son construcción ardua —trabajo institucional continuo, mecanismos de exclusión, resolución de conflictos. La gestión comunal exitosa requiere exactamente el tipo de trabajo organizativo que el horizontalismo espontáneo tiende a subestimar. Véase [[conceptos/anarquismo|Anarquismo]] para la tensión paralela en contextos horizontales.
 
 ### El problema de la escala
 
@@ -39,7 +39,7 @@ La información y el código son los recursos productivos más importantes de la
 
 ### Los comunes en el decrecimiento
 
-[[less-is-more|Less Is More]] presenta la recuperación de los comunes como uno de los tres pilares de la transición al decrecimiento (junto con redistribución y transformación cultural). Es la propuesta con más respaldo teórico e histórico del libro, pero también la que presenta mayores problemas de teoría del cambio: ¿cómo se recuperan comunes en sociedades donde llevan siglos destruidos y las relaciones de dependencia del mercado están profundamente sedimentadas?
+[[obras/less-is-more|Less Is More]] presenta la recuperación de los comunes como uno de los tres pilares de la transición al decrecimiento (junto con redistribución y transformación cultural). Es la propuesta con más respaldo teórico e histórico del libro, pero también la que presenta mayores problemas de teoría del cambio: ¿cómo se recuperan comunes en sociedades donde llevan siglos destruidos y las relaciones de dependencia del mercado están profundamente sedimentadas?
 
 ### Los comunes en la ficción
 
@@ -52,10 +52,10 @@ Anarres en [[obras/los_desposeidos|Los Desposeídos]] puede leerse como una soci
 
 ## Referencias cruzadas
 
-- [[less-is-more|Less Is More]] — obra que propone la recuperación de comunes como eje del decrecimiento
+- [[obras/less-is-more|Less Is More]] — obra que propone la recuperación de comunes como eje del decrecimiento
 - [[obras/los_desposeidos|Los Desposeídos]] — Anarres como sociedad de comunes; sus tensiones internas
-- [[anarquismo|Anarquismo]] — tensión paralela entre horizontalismo y poder informal
-- [[decrecimiento|Decrecimiento]] — los comunes como alternativa institucional al mercado
+- [[conceptos/anarquismo|Anarquismo]] — tensión paralela entre horizontalismo y poder informal
+- [[conceptos/decrecimiento|Decrecimiento]] — los comunes como alternativa institucional al mercado
 
 ## Fuentes
 

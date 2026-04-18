@@ -137,7 +137,7 @@ Informar hallazgos y sugerir correcciones. Esperar aprobación antes de hacer ca
 
 ## Convenciones
 
-- Usar [[wikilinks]] para todas las referencias cruzadas (compatible con Obsidian).
+- Usar [[wikilinks]] para todas las referencias cruzadas (compatible con Obsidian). Los wikilinks deben incluir siempre la ruta relativa a la carpeta dentro de `wiki/`, seguida del título como texto de visualización. Ejemplos: `[[obras/los_desposeidos|Los Desposeídos]]`, `[[conceptos/decrecimiento|Decrecimiento]]`, `[[autores/ursula-k-le-guin|Ursula K. Le Guin]]`.
 - Mantener los resúmenes en tus propias palabras — nunca copiar pasajes extensos de las fuentes.
 - Cuando las fuentes discrepen, presentar ambas posiciones y señalar la tensión.
 - Preferir la especificidad: "La serie Monje y Robot de Becky Chambers presenta los paneles solares como..." en vez de "algunos autores piensan...".

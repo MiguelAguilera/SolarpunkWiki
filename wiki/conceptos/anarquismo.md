@@ -36,7 +36,7 @@ Una sociedad revolucionaria que dura generaciones corre el riesgo de que su ener
 
 ### El problema del hedonismo
 
-Un punto ciego del anarquismo clásico, visible en [[obras/los_desposeidos|Los Desposeídos]], es que su proyecto emancipador se organiza alrededor del trabajo, la solidaridad y el deber —no del deseo o el placer. Esto lo distingue de tradiciones como la situacionista o el comunismo ácido de Fisher, que reivindican el terreno afectivo como espacio político. Véase [[acid-communism|Comunismo Ácido]] para el marco que reivindica el terreno afectivo.
+Un punto ciego del anarquismo clásico, visible en [[obras/los_desposeidos|Los Desposeídos]], es que su proyecto emancipador se organiza alrededor del trabajo, la solidaridad y el deber —no del deseo o el placer. Esto lo distingue de tradiciones como la situacionista o el comunismo ácido de Fisher, que reivindican el terreno afectivo como espacio político. Véase [[conceptos/acid-communism|Comunismo Ácido]] para el marco que reivindica el terreno afectivo.
 
 ### Referentes clásicos
 
@@ -51,8 +51,8 @@ Un punto ciego del anarquismo clásico, visible en [[obras/los_desposeidos|Los D
 ## Referencias cruzadas
 
 - [[obras/los_desposeidos|Los Desposeídos]] — la novela que trabaja el anarquismo como experimento concreto
-- [[acid-communism|Comunismo Ácido]] — tradición que complementa (y critica) el anarquismo clásico desde el terreno del deseo
-- [[revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la conexión con el decrecimiento contemporáneo
+- [[conceptos/acid-communism|Comunismo Ácido]] — tradición que complementa (y critica) el anarquismo clásico desde el terreno del deseo
+- [[conexiones/revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la conexión con el decrecimiento contemporáneo
 
 ## Fuentes
 

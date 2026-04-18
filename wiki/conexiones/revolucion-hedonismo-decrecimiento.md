@@ -11,7 +11,7 @@ etiquetas: [decrecimiento, acid-communism, solarpunk, deseo, anarquismo, hegemon
 
 ## Resumen
 
-Página de conexión que tiende puentes entre [[obras/los_desposeidos|Los Desposeídos]], el [[acid-communism|Comunismo Ácido]] de Mark Fisher y los debates contemporáneos sobre decrecimiento. El argumento central: tanto Anarres como el decrecimiento dominante comparten un mismo punto ciego —la ausencia de una política del deseo— y solo podrán construir hegemonía cultural si lo subsanan. El solarpunk es el candidato más prometedor para llenar ese vacío.
+Página de conexión que tiende puentes entre [[obras/los_desposeidos|Los Desposeídos]], el [[conceptos/acid-communism|Comunismo Ácido]] de Mark Fisher y los debates contemporáneos sobre decrecimiento. El argumento central: tanto Anarres como el decrecimiento dominante comparten un mismo punto ciego —la ausencia de una política del deseo— y solo podrán construir hegemonía cultural si lo subsanan. El solarpunk es el candidato más prometedor para llenar ese vacío.
 
 ## Contenido principal
 
@@ -23,7 +23,7 @@ El decrecimiento contemporáneo enfrenta exactamente el mismo problema en el pla
 
 ### El diagnóstico de Fisher
 
-Mark Fisher, en [[acid-communism|Comunismo Ácido]], ofrece el vocabulario para nombrar este problema con precisión. La izquierda, tras la derrota de la contracultura de los sesenta, abandonó el terreno del deseo y la experiencia subjetiva al capitalismo. Se refugió en la austeridad moral —el deber, la solidaridad, la justicia— mientras el capital vendía libertad, placer, identidad, experiencia.
+Mark Fisher, en [[conceptos/acid-communism|Comunismo Ácido]], ofrece el vocabulario para nombrar este problema con precisión. La izquierda, tras la derrota de la contracultura de los sesenta, abandonó el terreno del deseo y la experiencia subjetiva al capitalismo. Se refugió en la austeridad moral —el deber, la solidaridad, la justicia— mientras el capital vendía libertad, placer, identidad, experiencia.
 
 El resultado es una asimetría estructural: el capital puede ofrecer algo que se siente como más vida (aunque sea una promesa falsa); la izquierda solo puede ofrecer virtud. En un horizonte de hegemonía cultural, la virtud pierde.
 
@@ -31,7 +31,7 @@ Leído desde Fisher, Anarres no es una advertencia sobre el anarquismo: es una a
 
 ### Hickel como caso concreto: el decrecimiento-como-austeridad
 
-[[less-is-more|Less Is More]] es el texto que más directamente confirma el diagnóstico de Fisher en el plano del decrecimiento real. Hickel vende el decrecimiento como renuncia —vuela menos, consume menos— en lugar de como expansión de la experiencia. Sus propuestas operan en el registro del deber y la justicia distributiva. No hay en el libro ningún vocabulario del gozo como categoría política.
+[[obras/less-is-more|Less Is More]] es el texto que más directamente confirma el diagnóstico de Fisher en el plano del decrecimiento real. Hickel vende el decrecimiento como renuncia —vuela menos, consume menos— en lugar de como expansión de la experiencia. Sus propuestas operan en el registro del deber y la justicia distributiva. No hay en el libro ningún vocabulario del gozo como categoría política.
 
 La paradoja es que el argumento histórico de Hickel —que el capitalismo destruyó los comunes y con ellos formas de vida más ricas y conviviales— contiene exactamente la semilla de un argumento hedónico: los comunes no eran solo más justos, eran más *vivos*. Pero Hickel no desarrolla esa línea. Las notas de las notas de Miguel lo formulan así: "Anarres muestra que el decrecimiento puede funcionar como hecho social durante generaciones. Lo que no muestra es cómo hacer que la gente lo *desee*." Hickel tampoco lo muestra.
 
@@ -61,12 +61,12 @@ La crítica de Le Guin a la contracultura —que el éxtasis colectivo de Woodst
 ## Referencias cruzadas
 
 - [[obras/los_desposeidos|Los Desposeídos]] — la novela que muestra el resultado de una revolución sin hedonismo
-- [[less-is-more|Less Is More]] — el decrecimiento real que cae en el mismo punto ciego
-- [[decrecimiento|Decrecimiento]] — el concepto y sus corrientes internas
-- [[acid-communism|Comunismo Ácido]] — el marco teórico central
-- [[anarquismo|Anarquismo]] — tradición política que comparte el punto ciego
-- [[ursula-k-le-guin|Ursula K. Le Guin]] — autora cuya elección filosófica estructura el problema
-- [[jason-hickel|Jason Hickel]] — divulgador del decrecimiento cuya obra confirma el diagnóstico de Fisher
+- [[obras/less-is-more|Less Is More]] — el decrecimiento real que cae en el mismo punto ciego
+- [[conceptos/decrecimiento|Decrecimiento]] — el concepto y sus corrientes internas
+- [[conceptos/acid-communism|Comunismo Ácido]] — el marco teórico central
+- [[conceptos/anarquismo|Anarquismo]] — tradición política que comparte el punto ciego
+- [[autores/ursula-k-le-guin|Ursula K. Le Guin]] — autora cuya elección filosófica estructura el problema
+- [[autores/jason-hickel|Jason Hickel]] — divulgador del decrecimiento cuya obra confirma el diagnóstico de Fisher
 
 ## Fuentes
 

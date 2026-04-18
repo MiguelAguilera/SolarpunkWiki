@@ -63,11 +63,11 @@ El artículo de Hickel sobre Occupy Wall Street (2012) mostraba ya el análisis 
 
 ## Referencias cruzadas
 
-- [[jason-hickel|Jason Hickel]] — contexto biográfico y trayectoria intelectual
-- [[decrecimiento|Decrecimiento]] — el concepto central del libro
-- [[comunes|Comunes]] — la propuesta alternativa de Hickel; Ostrom y Federici como fuentes
-- [[anarquismo|Anarquismo]] — Anarres como sociedad de suficiencia; Le Guin más honesta que Hickel sobre sus contradicciones
-- [[revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]] — Hickel como caso de decrecimiento-como-austeridad; el mismo punto ciego que Anarres
+- [[autores/jason-hickel|Jason Hickel]] — contexto biográfico y trayectoria intelectual
+- [[conceptos/decrecimiento|Decrecimiento]] — el concepto central del libro
+- [[conceptos/comunes|Comunes]] — la propuesta alternativa de Hickel; Ostrom y Federici como fuentes
+- [[conceptos/anarquismo|Anarquismo]] — Anarres como sociedad de suficiencia; Le Guin más honesta que Hickel sobre sus contradicciones
+- [[conexiones/revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]] — Hickel como caso de decrecimiento-como-austeridad; el mismo punto ciego que Anarres
 - [[obras/los_desposeidos|Los Desposeídos]] — el libro de Hickel como intento de teorizar los principios que subyacen a Anarres
 
 ## Fuentes

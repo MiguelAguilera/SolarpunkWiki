@@ -17,10 +17,10 @@ Página de conexión que cartografía tres concepciones radicalmente distintas d
 
 ### Los tres modelos
 
-**Modelo 1 — Abundancia técnica (Klein y Thompson, [[abundance|Abundance]])**
+**Modelo 1 — Abundancia técnica (Klein y Thompson, [[obras/abundance|Abundance]])**
 Abundancia como capacidad de producción y despliegue a gran escala. El problema es institucional: demasiada fricción, demasiados puntos de veto, demasiado poca capacidad estatal de ejecución. La solución es reformar el liberalismo para construir más y más rápido: vivienda, infraestructura, energía limpia. No hay transformación de relaciones sociales ni de valores. La abundancia es una cuestión de eficiencia.
 
-**Modelo 2 — Suficiencia redistributiva (Hickel, [[less-is-more|Less Is More]])**
+**Modelo 2 — Suficiencia redistributiva (Hickel, [[obras/less-is-more|Less Is More]])**
 La abundancia de los ricos depende del despojo de los pobres y del planeta. El horizonte no es más producción sino menos extracción, más redistribución y recuperación de los comunes. La suficiencia —vivir bien con menos— reemplaza a la abundancia como meta. El problema de Klein y Thompson (la escasez artificial) existe, pero su causa es el capitalismo, no la regulación excesiva.
 
 **Modelo 3 — Abundancia vivida (solarpunk y [[obras/los_desposeidos|Los Desposeídos]])**
@@ -30,7 +30,7 @@ Ni más producción ni más austeridad, sino transformación cualitativa de la e
 
 Klein/Thompson y Hickel, que parten de premisas opuestas y llegan a conclusiones opuestas sobre el horizonte deseable, comparten exactamente el mismo defecto estructural: ninguno tiene teoría de quién hace la transformación, a través de qué formas organizativas, contra qué resistencias concretas.
 
-En [[abundance|Abundance]], el cambio ocurre dentro de instituciones reformadas. En [[less-is-more|Less Is More]], los gobiernos "deben" y las sociedades "necesitan". En los dos casos, el pueblo como sujeto político está ausente. Srnicek y Williams (*Inventing the Future*, 2015) tienen esta teoría —hegemonía gramsciana, crítica de la folk politics, estrategia de partido-masa— y ninguno de los dos la incorpora.
+En [[obras/abundance|Abundance]], el cambio ocurre dentro de instituciones reformadas. En [[obras/less-is-more|Less Is More]], los gobiernos "deben" y las sociedades "necesitan". En los dos casos, el pueblo como sujeto político está ausente. Srnicek y Williams (*Inventing the Future*, 2015) tienen esta teoría —hegemonía gramsciana, crítica de la folk politics, estrategia de partido-masa— y ninguno de los dos la incorpora.
 
 Esta coincidencia no es accidental: refleja la posición social de ambos proyectos intelectuales, producidos por intelectuales cosmopolitas con relación de observador comprometido (no participante constitutivo) a la práctica política organizativa.
 
@@ -48,7 +48,7 @@ La pregunta que Anarres formula y ningún libro de no ficción responde: ¿bajo 
 
 El solarpunk es el proyecto cultural que intenta articular el tercer modelo —abundancia como experiencia vivida— sin los costes de Anarres. Su apuesta es que la transformación ecológica puede ser también una expansión de la experiencia: más tiempo, más comunidad, más belleza, más cuerpo. No menos vida sino vida diferente.
 
-Si el solarpunk logra esto o si reproduce en formas más coloridas el punto ciego hedónico de Anarres es la pregunta que la wiki debe seguir rastreando. Véase [[revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]].
+Si el solarpunk logra esto o si reproduce en formas más coloridas el punto ciego hedónico de Anarres es la pregunta que la wiki debe seguir rastreando. Véase [[conexiones/revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]].
 
 ### Preguntas abiertas para el grupo
 
@@ -59,12 +59,12 @@ Si el solarpunk logra esto o si reproduce en formas más coloridas el punto cieg
 
 ## Referencias cruzadas
 
-- [[abundance|Abundance]] — modelo 1: abundancia técnica
-- [[less-is-more|Less Is More]] — modelo 2: suficiencia redistributiva
+- [[obras/abundance|Abundance]] — modelo 1: abundancia técnica
+- [[obras/less-is-more|Less Is More]] — modelo 2: suficiencia redistributiva
 - [[obras/los_desposeidos|Los Desposeídos]] — modelo 3 implícito: suficiencia vivida y sus costes
-- [[decrecimiento|Decrecimiento]] — el marco político del modelo 2
-- [[revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la dimensión hedónica que los tres modelos resuelven de forma diferente
-- [[anarquismo|Anarquismo]] — Anarres como experimento del tercer modelo
+- [[conceptos/decrecimiento|Decrecimiento]] — el marco político del modelo 2
+- [[conexiones/revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la dimensión hedónica que los tres modelos resuelven de forma diferente
+- [[conceptos/anarquismo|Anarquismo]] — Anarres como experimento del tercer modelo
 
 ## Fuentes
 

@@ -39,7 +39,7 @@ Leído desde Fisher, [[obras/los_desposeidos|Los Desposeídos]] muestra exactame
 
 ### Relevancia para el solarpunk y el decrecimiento
 
-El comunismo ácido es el marco que permite formular la pregunta más importante para el solarpunk contemporáneo: ¿puede ofrecer una visión del futuro que sea deseable además de justa? Véase [[revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]].
+El comunismo ácido es el marco que permite formular la pregunta más importante para el solarpunk contemporáneo: ¿puede ofrecer una visión del futuro que sea deseable además de justa? Véase [[conexiones/revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]].
 
 ### Tensiones y limitaciones
 
@@ -50,9 +50,9 @@ El comunismo ácido es el marco que permite formular la pregunta más importante
 ## Referencias cruzadas
 
 - [[obras/los_desposeidos|Los Desposeídos]] — la novela que muestra qué produce una izquierda sin hedonismo
-- [[anarquismo|Anarquismo]] — tradición que el comunismo ácido complementa desde el terreno afectivo
-- [[revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la aplicación de este marco al decrecimiento y el solarpunk
-- [[ursula-k-le-guin|Ursula K. Le Guin]] — autora cuyo punto ciego el comunismo ácido permite nombrar
+- [[conceptos/anarquismo|Anarquismo]] — tradición que el comunismo ácido complementa desde el terreno afectivo
+- [[conexiones/revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la aplicación de este marco al decrecimiento y el solarpunk
+- [[autores/ursula-k-le-guin|Ursula K. Le Guin]] — autora cuyo punto ciego el comunismo ácido permite nombrar
 
 ## Fuentes
 

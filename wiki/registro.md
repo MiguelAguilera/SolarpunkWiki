@@ -43,7 +43,7 @@ Páginas creadas a partir de `raw/no-ficcion/less-is-more-notas_Miguel.md`:
 Página actualizada:
 - `wiki/conexiones/revolucion-hedonismo-decrecimiento.md` — añadido Hickel como caso concreto de decrecimiento-como-austeridad
 
-Tensión central registrada: Hickel cae en el mismo punto ciego hedónico que Anarres; [[revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]] conecta ambos. Laguna marcada: gobernanza de comunes digitales [?].
+Tensión central registrada: Hickel cae en el mismo punto ciego hedónico que Anarres; [[conexiones/revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]] conecta ambos. Laguna marcada: gobernanza de comunes digitales [?].
 
 ---
 

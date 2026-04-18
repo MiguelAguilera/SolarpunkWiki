@@ -31,7 +31,7 @@ Aunque no hay coerción institucional, existe una presión fuerte hacia la unifo
 
 El punto ciego más significativo de la novela: ausencia total de una dimensión hedónica en el proyecto revolucionario. Le Guin escribe entre 1972 y 1974 en Berkeley, en el epicentro geográfico y temporal de la contracultura norteamericana, y su imaginación política es radicalmente impermeable a esa tradición. No hay psicodélicos, no hay éxtasis colectivo, no hay placer como forma de resistencia. La revolución Odoniana es, en términos afectivos, una revolución protestante.
 
-Este silencio tiene raíces filosóficas identificables. Le Guin era hija de Alfred Kroeber, el antropólogo de Berkeley, y su formación era profundamente taoísta, antropológica y feminista de primera ola. Su anarquismo es el del trabajo y la solidaridad —más cercano a Kropotkin que a los Diggers de San Francisco o a Timothy Leary. El feminismo le daba además razones fundadas para ser escéptica: la contracultura hippie era mayoritariamente masculina y blanca, y reproducía las jerarquías de género que proclamaba disolver. El éxtasis de Woodstock coexistió con la invisibilización sistemática de las mujeres dentro del movimiento. Pero el resultado en la novela es que Anarres no ofrece vocabulario para el deseo como fuerza política. Véase [[acid-communism|Comunismo Ácido]].
+Este silencio tiene raíces filosóficas identificables. Le Guin era hija de Alfred Kroeber, el antropólogo de Berkeley, y su formación era profundamente taoísta, antropológica y feminista de primera ola. Su anarquismo es el del trabajo y la solidaridad —más cercano a Kropotkin que a los Diggers de San Francisco o a Timothy Leary. El feminismo le daba además razones fundadas para ser escéptica: la contracultura hippie era mayoritariamente masculina y blanca, y reproducía las jerarquías de género que proclamaba disolver. El éxtasis de Woodstock coexistió con la invisibilización sistemática de las mujeres dentro del movimiento. Pero el resultado en la novela es que Anarres no ofrece vocabulario para el deseo como fuerza política. Véase [[conceptos/acid-communism|Comunismo Ácido]].
 
 ### Sedimentación histórica de la revolución
 
@@ -70,11 +70,11 @@ La novela sugiere que incluso las revoluciones más radicales pueden cristalizar
 
 ## Referencias cruzadas
 
-- [[ursula-k-le-guin|Ursula K. Le Guin]] — contexto biográfico e intelectual de la autora
-- [[anarquismo|Anarquismo]] — el concepto central de la novela y sus tensiones
-- [[acid-communism|Comunismo Ácido]] — vocabulario para el punto ciego hedónico de la novela
-- [[decrecimiento|Decrecimiento]] — Anarres como experimento mental de suficiencia
-- [[revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la conexión entre este punto ciego y el decrecimiento contemporáneo
+- [[autores/ursula-k-le-guin|Ursula K. Le Guin]] — contexto biográfico e intelectual de la autora
+- [[conceptos/anarquismo|Anarquismo]] — el concepto central de la novela y sus tensiones
+- [[conceptos/acid-communism|Comunismo Ácido]] — vocabulario para el punto ciego hedónico de la novela
+- [[conceptos/decrecimiento|Decrecimiento]] — Anarres como experimento mental de suficiencia
+- [[conexiones/revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la conexión entre este punto ciego y el decrecimiento contemporáneo
 
 ## Fuentes
 
