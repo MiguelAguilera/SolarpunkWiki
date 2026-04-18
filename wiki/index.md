@@ -4,7 +4,7 @@ type: indice
 updated: 2026-04-18
 ---
 
-# Wiki del Grupo de Lectura Solarpunk — Índice
+# Wiki Solarpunk — Índice
 
 ## Obras
 
