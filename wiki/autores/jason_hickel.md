@@ -45,11 +45,11 @@ La respuesta del movimiento decrecentista ha sido airada: lo acusan de disolver 
 
 ### Linaje intelectual e influencias
 
-- **Silvia Federici** — fuente real del argumento histórico sobre enclosures y destrucción de los comunes
+- **[[autores/silvia_federici|Silvia Federici]]** — fuente real del argumento histórico sobre enclosures y destrucción de los comunes
 - **Elinor Ostrom** — invocada para la gobernanza de comunes, pero sin el aparato crítico completo
 - **Gramsci / Laclau y Mouffe** — presentes en el artículo de Occupy (2012), ausentes en *Less Is More*
-- **Kohei Saito** — paralelo más riguroso filosóficamente dentro del marxismo ecológico
-- **Timothée Parrique** — el respaldo académico que el libro de Hickel populariza
+- **Kohei Saito** — paralelo más riguroso filosóficamente dentro del marxismo ecológico; su *El Capital en el Antropoceno* (2020) resuelve la tensión marxismo-decrecimiento con mayor rigor que Hickel [?]
+- **Timothée Parrique** — economista del decrecimiento cuyo trabajo académico respalda los argumentos divulgativos de Hickel
 
 **Distancias notables:** A diferencia de [[autores/srnicek_williams|Srnicek y Williams]], Hickel no elabora una teoría de la hegemonía ni del agente del cambio. A diferencia de Saito, no resuelve la tensión entre marxismo y decrecimiento desde dentro de la tradición filosófica. Su fortaleza está en la síntesis divulgativa y en el rigor biofísico; su debilidad, en la arquitectura política.
 

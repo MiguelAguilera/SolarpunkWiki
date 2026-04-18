@@ -7,7 +7,7 @@ sources: [https://mubi.com/en/notebook/posts/review-isiah-medina-s-inventing-the
 tags: [folk-politics, hegemonía, post-trabajo, automatización, renta-básica, aceleracionismo]
 ---
 
-# Inventar el futuro
+# Inventar el futuro: poscapitalismo y un mundo sin trabajo
 
 ## Resumen
 

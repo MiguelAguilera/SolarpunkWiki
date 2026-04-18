@@ -30,7 +30,7 @@ Su *#ACCELERATE Manifesto* (2013, con otros) lanzó la discusión sobre acelerac
 - **Gramsci** — hegemonía como construcción cultural y política a largo plazo, no solo fuerza
 - **Laclau y Mouffe** — articulación de demandas, construcción de antagonismos, lógica populista
 - **Keynes** — la visión de la semana laboral de 15 horas como horizonte alcanzable mediante tecnología
-- **Tradición post-trabajo** — André Gorz, Kathi Weeks (*The Problem with Work*, 2011)
+- **Tradición post-trabajo** — André Gorz, Kathi Weeks (*El problema del trabajo*, 2011)
 
 ### Relación con otros autores de la wiki
 

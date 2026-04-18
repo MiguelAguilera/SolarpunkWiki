@@ -7,7 +7,7 @@ sources: [raw/ficcion/monje_y_robot_notas_Miguel.md]
 tags: [solarpunk, post-escasez, cuidados, sentido, suficiencia, robots, rewilding, hopepunk]
 ---
 
-# Monje y Robot
+# Monje y Robot (Un salmo para lo salvaje)
 
 ## Resumen
 
@@ -37,7 +37,7 @@ Lo mismo vale para la relación de Mosscap con el bosque: su conocimiento ecoló
 
 La vocación de Dex —ofrecer presencia y escucha, sostener vínculos, acompañar el desasosiego ajeno— es trabajo socialmente central pero produce nada en sentido mercantil. Panga lo ha institucionalizado como vocación legítima, sostenida sin necesidad de justificarse en términos de productividad.
 
-Leído junto a [[autores/silvia_federici|Federici]] [?], Dex es la sanadora que nunca fue quemada: la herbalista, la partera, la mujer-sabia que el capitalismo histórico destruyó precisamente porque su saber no era subsumible en la lógica del capital. Panga es la sociedad que nunca realizó ese cercamiento. Véase [[conceptos/trabajo_de_cuidados|Trabajo de cuidados]].
+Leído desde el marco de [[autores/silvia_federici|Federici]], Dex es la sanadora que nunca fue quemada: la herbalista, la partera, la mujer-sabia que el capitalismo histórico destruyó precisamente porque su saber no era subsumible en la lógica del capital. Panga es la sociedad que nunca realizó ese cercamiento. Véase [[conceptos/trabajo_de_cuidados|Trabajo de cuidados]].
 
 ### Los robots que se marchan
 

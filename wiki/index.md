@@ -26,6 +26,7 @@ updated: 2026-04-18
 
 - [[autores/ursula_k_le_guin|Ursula K. Le Guin]] — Ciencia ficción política, anarquismo, feminismo, taoísmo.
 - [[autores/becky_chambers|Becky Chambers]] — Hopepunk, cuidados, epistemología no extractiva, fenomenología del buen vivir.
+- [[autores/silvia_federici|Silvia Federici]] — Marxismo feminista, reproducción social, enclosures, caza de brujas como acumulación originaria. [?]
 - [[autores/octavia_butler|Octavia E. Butler]] — Afrofuturismo, colapso como revelación, contradicción humana, transmisión práctica.
 - [[autores/jason_hickel|Jason Hickel]] — Decrecimiento, ecosocialismo, antropología política, Sur Global.
 - [[autores/ezra_klein_derek_thompson|Ezra Klein y Derek Thompson]] — Liberalismo progresista, capacidad estatal, divulgación política.
