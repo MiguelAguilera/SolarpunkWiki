@@ -1,10 +1,10 @@
 ---
-titulo: "Jason Hickel"
-tipo: autor
-fecha_creacion: 2026-04-18
-fecha_actualizacion: 2026-04-18
-fuentes: [raw/no-ficcion/less-is-more-notas_Miguel.md]
-etiquetas: [decrecimiento, ecosocialismo, antropologia, sur-global, divulgacion]
+title: "Jason Hickel"
+type: autor
+date: 2026-04-18
+updated: 2026-04-18
+sources: [raw/no-ficcion/less-is-more-notas_Miguel.md]
+tags: [decrecimiento, ecosocialismo, antropologia, sur-global, divulgacion]
 ---
 
 # Jason Hickel
@@ -23,11 +23,11 @@ Su posición intelectual es la del intelectual cosmopolita de formación cristia
 
 ### Obras en la wiki
 
-- [[obras/less-is-more|Less Is More]] (2020) — manifiesto ecosocialista de divulgación
+- [[obras/less_is_more|Less Is More]] (2020) — manifiesto ecosocialista de divulgación
 
 ### La paradoja del Hickel de 2012
 
-En su artículo sobre Occupy Wall Street (2012), Hickel articulaba la crítica de la folk politics casi exactamente como Srnicek y Williams la desarrollarían en 2015: la fetichización de la diversidad, la plataforma sin demandas como debilidad política, la necesidad de definir adversarios, la cita explícita de Laclau y Mouffe sobre el antagonismo. Tenía las herramientas analíticas. El problema de *Less Is More* es que las dejó a un lado cuando escribió para una audiencia popular.
+En su artículo sobre Occupy Wall Street (2012), Hickel articulaba la crítica de la folk politics casi exactamente como [[autores/srnicek_williams|Srnicek y Williams]] la desarrollarían en [[obras/inventar_el_futuro|Inventing the Future]] (2015): la fetichización de la diversidad, la plataforma sin demandas como debilidad política, la necesidad de definir adversarios, la cita explícita de Laclau y Mouffe sobre el antagonismo. Tenía las herramientas analíticas. El problema de *Less Is More* es que las dejó a un lado cuando escribió para una audiencia popular.
 
 ### El giro de 2025
 
@@ -51,11 +51,11 @@ La respuesta del movimiento decrecentista ha sido airada: lo acusan de disolver 
 - **Kohei Saito** — paralelo más riguroso filosóficamente dentro del marxismo ecológico
 - **Timothée Parrique** — el respaldo académico que el libro de Hickel populariza
 
-**Distancias notables:** A diferencia de Srnicek y Williams, Hickel no elabora una teoría de la hegemonía ni del agente del cambio. A diferencia de Saito, no resuelve la tensión entre marxismo y decrecimiento desde dentro de la tradición filosófica. Su fortaleza está en la síntesis divulgativa y en el rigor biofísico; su debilidad, en la arquitectura política.
+**Distancias notables:** A diferencia de [[autores/srnicek_williams|Srnicek y Williams]], Hickel no elabora una teoría de la hegemonía ni del agente del cambio. A diferencia de Saito, no resuelve la tensión entre marxismo y decrecimiento desde dentro de la tradición filosófica. Su fortaleza está en la síntesis divulgativa y en el rigor biofísico; su debilidad, en la arquitectura política.
 
 ## Referencias cruzadas
 
-- [[obras/less-is-more|Less Is More]] — obra principal en la wiki
+- [[obras/less_is_more|Less Is More]] — obra principal en la wiki
 - [[conceptos/decrecimiento|Decrecimiento]] — concepto central de su obra
 - [[conceptos/comunes|Comunes]] — propuesta alternativa que desarrolla
 

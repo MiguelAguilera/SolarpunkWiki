@@ -1,10 +1,10 @@
 ---
-titulo: "Ezra Klein y Derek Thompson"
-tipo: autor
-fecha_creacion: 2026-04-18
-fecha_actualizacion: 2026-04-18
-fuentes: [raw/no-ficcion/abundance_notas_Miguel.md]
-etiquetas: [liberalismo, capacidad-estatal, divulgacion, politica-estadounidense]
+title: "Ezra Klein y Derek Thompson"
+type: autor
+date: 2026-04-18
+updated: 2026-04-18
+sources: [raw/no-ficcion/abundance_notas_Miguel.md]
+tags: [liberalismo, capacidad-estatal, divulgacion, politica-estadounidense]
 ---
 
 # Ezra Klein y Derek Thompson
@@ -27,12 +27,12 @@ Su diagnóstico —el socioliberalismo ha construido demasiados mecanismos de ve
 
 ### Distancias notables
 
-A diferencia de [[autores/jason-hickel|Jason Hickel]], no tienen formación en economía política ni en la tradición crítica. A diferencia de Srnicek y Williams (*Inventing the Future*), no tienen teoría de la hegemonía ni del agente del cambio. Su fortaleza está en el diagnóstico institucional concreto y en el acceso a una audiencia muy amplia; su debilidad, en la ausencia de marco estructural.
+A diferencia de [[autores/jason_hickel|Jason Hickel]], no tienen formación en economía política ni en la tradición crítica. A diferencia de [[autores/srnicek_williams|Srnicek y Williams]] ([[obras/inventar_el_futuro|Inventing the Future]]), no tienen teoría de la hegemonía ni del agente del cambio. Su fortaleza está en el diagnóstico institucional concreto y en el acceso a una audiencia muy amplia; su debilidad, en la ausencia de marco estructural.
 
 ## Referencias cruzadas
 
 - [[obras/abundance|Abundance]] — obra principal en la wiki
-- [[conexiones/abundancia-tres-modelos|Abundancia: Tres Modelos en Tensión]] — su concepción de abundancia en contraste con Hickel y el solarpunk
+- [[conexiones/abundancia_y_socialismo|Abundancia y socialismo]] — su concepción de abundancia en contraste con Hickel y el solarpunk
 
 ## Fuentes
 

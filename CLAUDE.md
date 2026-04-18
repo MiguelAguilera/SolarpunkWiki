@@ -27,12 +27,12 @@ Cada página wiki usa esta plantilla:
 
 ```markdown
 ---
-titulo: "Título de la página"
-tipo: obra | autor | concepto | conexion | sesion
-fecha_creacion: AAAA-MM-DD
-fecha_actualizacion: AAAA-MM-DD
-fuentes: [lista de archivos en raw/ de los que se nutre esta página]
-etiquetas: [etiquetas relevantes]
+title: "Título de la página"
+type: obra | autor | concepto | conexion | sesion
+date: AAAA-MM-DD
+updated: AAAA-MM-DD
+sources: [lista de archivos en raw/ de los que se nutre esta página]
+tags: [etiquetas relevantes]
 ---
 
 # Título de la página

@@ -1,17 +1,17 @@
 ---
-titulo: "Los Desposeídos"
-tipo: obra
-fecha_creacion: 2026-04-18
-fecha_actualizacion: 2026-04-18
-fuentes: [raw/ficcion/los_desposeidos_notas_Miguel.md]
-etiquetas: [anarquismo, utopia-critica, jerarquias-informales, decrecimiento, ciencia-ficcion]
+title: "Los Desposeídos"
+type: obra
+date: 2026-04-18
+updated: 2026-04-18
+sources: [raw/ficcion/los_desposeidos_notas_Miguel.md]
+tags: [anarquismo, utopia-critica, jerarquias-informales, decrecimiento, ciencia-ficcion]
 ---
 
 # Los Desposeídos
 
 ## Resumen
 
-Novela de Ursula K. Le Guin (1974), subtitulada *Una utopía ambigua*. Sigue a Shevek, físico de Anarres —planeta anarquista sin Estado ni propiedad privada— que viaja a Urras, el mundo capitalista del que sus ancestros huyeron. La estructura narrativa alterna los dos mundos en capítulos paralelos. Es una utopía crítica: muestra que el experimento anarquista funciona, pero al precio de una austeridad cultural y afectiva que la novela no resuelve ni disculpa.
+Novela de [[autores/ursula_k_le_guin|Ursula K. Le Guin]] (1974), subtitulada *Una utopía ambigua*. Sigue a Shevek, físico de Anarres —planeta anarquista sin Estado ni propiedad privada— que viaja a Urras, el mundo capitalista del que sus ancestros huyeron. La estructura narrativa alterna los dos mundos en capítulos paralelos. Es una utopía crítica: muestra que el experimento anarquista funciona, pero al precio de una austeridad cultural y afectiva que la novela no resuelve ni disculpa.
 
 ## Contenido principal
 
@@ -31,7 +31,7 @@ Aunque no hay coerción institucional, existe una presión fuerte hacia la unifo
 
 El punto ciego más significativo de la novela: ausencia total de una dimensión hedónica en el proyecto revolucionario. Le Guin escribe entre 1972 y 1974 en Berkeley, en el epicentro geográfico y temporal de la contracultura norteamericana, y su imaginación política es radicalmente impermeable a esa tradición. No hay psicodélicos, no hay éxtasis colectivo, no hay placer como forma de resistencia. La revolución Odoniana es, en términos afectivos, una revolución protestante.
 
-Este silencio tiene raíces filosóficas identificables. Le Guin era hija de Alfred Kroeber, el antropólogo de Berkeley, y su formación era profundamente taoísta, antropológica y feminista de primera ola. Su anarquismo es el del trabajo y la solidaridad —más cercano a Kropotkin que a los Diggers de San Francisco o a Timothy Leary. El feminismo le daba además razones fundadas para ser escéptica: la contracultura hippie era mayoritariamente masculina y blanca, y reproducía las jerarquías de género que proclamaba disolver. El éxtasis de Woodstock coexistió con la invisibilización sistemática de las mujeres dentro del movimiento. Pero el resultado en la novela es que Anarres no ofrece vocabulario para el deseo como fuerza política. Véase [[conceptos/acid-communism|Comunismo Ácido]].
+Este silencio tiene raíces filosóficas identificables. Le Guin era hija de Alfred Kroeber, el antropólogo de Berkeley, y su formación era profundamente taoísta, antropológica y feminista de primera ola. Su anarquismo es el del trabajo y la solidaridad —más cercano a Kropotkin que a los Diggers de San Francisco o a Timothy Leary. El feminismo le daba además razones fundadas para ser escéptica: la contracultura hippie era mayoritariamente masculina y blanca, y reproducía las jerarquías de género que proclamaba disolver. El éxtasis de Woodstock coexistió con la invisibilización sistemática de las mujeres dentro del movimiento. Pero el resultado en la novela es que Anarres no ofrece vocabulario para el deseo como fuerza política. Véase [[conceptos/acid_communism|Comunismo Ácido]].
 
 ### Sedimentación histórica de la revolución
 
@@ -68,13 +68,32 @@ La novela sugiere que incluso las revoluciones más radicales pueden cristalizar
 - ¿Qué habría cambiado en Anarres si el proyecto Odoniano hubiera incorporado el deseo como dimensión política?
 - ¿El punto ciego de Le Guin respecto al hedonismo es una limitación biográfica o una elección filosófica defendible desde el feminismo?
 
+### El tríptico de las comunidades intencionales
+
+[[obras/parabola_del_sembrador|La Parábola del Sembrador]] de [[autores/octavia_butler|Butler]] completa el tríptico que la wiki tiene sobre comunidades que intentan vivir según otros valores:
+
+- **Bellota (Butler)**: fundación cruda, pre-institucional. Las prácticas de supervivencia preceden a la ideología. Frágil ante la violencia organizada.
+- **Anarres (Le Guin)**: institucionalizada, empezando a calcificarse. La energía fundacional se ha convertido en burocracia y conformismo.
+- **Panga (Chambers)**: transición resuelta hace generaciones. El tejido ordinario de la vida ya es el mundo que se quería construir.
+
+Le Guin muestra el problema de la calcificación; Butler muestra el problema de la fragilidad; Chambers esquiva el problema de la transición. Juntas trazan el ciclo completo. Véase [[conceptos/politica_prefigurativa|Política prefigurativa]].
+
+### Anarres y Panga: las dos sociedades de suficiencia
+
+[[obras/monje_y_robot|Monk & Robot]] de [[autores/becky_chambers|Becky Chambers]] es el texto que más directamente dialoga con *Los Desposeídos* en la wiki. Ambas son sociedades organizadas en torno a la suficiencia; sus diferencias son reveladoras:
+
+Anarres tiene conflicto político visible —la burocracia del PDT, la presión conformista, el caso Shevek— pero reprime el desasosiego existencial bajo el deber. Panga atenúa el conflicto hasta hacerlo casi invisible pero confronta el desasosiego directamente: Dex tiene todo lo que Anarres promete y sigue insatisfeche. Le Guin fue más honesta sobre el conflicto; Chambers es más honesta sobre el sentido. Juntas trazan el mapa completo de lo que una sociedad buena puede y no puede resolver.
+
 ## Referencias cruzadas
 
-- [[autores/ursula-k-le-guin|Ursula K. Le Guin]] — contexto biográfico e intelectual de la autora
+- [[autores/ursula_k_le_guin|Ursula K. Le Guin]] — contexto biográfico e intelectual de la autora
 - [[conceptos/anarquismo|Anarquismo]] — el concepto central de la novela y sus tensiones
-- [[conceptos/acid-communism|Comunismo Ácido]] — vocabulario para el punto ciego hedónico de la novela
+- [[conceptos/acid_communism|Comunismo Ácido]] — vocabulario para el punto ciego hedónico de la novela
 - [[conceptos/decrecimiento|Decrecimiento]] — Anarres como experimento mental de suficiencia
-- [[conexiones/revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la conexión entre este punto ciego y el decrecimiento contemporáneo
+- [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la conexión entre este punto ciego y el decrecimiento contemporáneo
+- [[obras/monje_y_robot|Monk & Robot]] — Panga como contrapunto: más amable que Anarres, más honesta sobre el sentido
+- [[obras/parabola_del_sembrador|La Parábola del Sembrador]] — Bellota como el tercer punto del tríptico: fundación cruda antes de la institucionalización
+- [[conceptos/politica_prefigurativa|Política prefigurativa]] — el ciclo completo Bellota → Anarres → Panga
 
 ## Fuentes
 

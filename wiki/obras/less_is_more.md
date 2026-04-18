@@ -1,17 +1,17 @@
 ---
-titulo: "Less Is More: How Degrowth Will Save the World"
-tipo: obra
-fecha_creacion: 2026-04-18
-fecha_actualizacion: 2026-04-18
-fuentes: [raw/no-ficcion/less-is-more-notas_Miguel.md]
-etiquetas: [decrecimiento, ecosocialismo, comunes, capitalismo, teoria-del-cambio, no-ficcion]
+title: "Less Is More: How Degrowth Will Save the World"
+type: obra
+date: 2026-04-18
+updated: 2026-04-18
+sources: [raw/no-ficcion/less-is-more-notas_Miguel.md]
+tags: [decrecimiento, ecosocialismo, comunes, capitalismo, teoria-del-cambio, no-ficcion]
 ---
 
 # Less Is More: How Degrowth Will Save the World
 
 ## Resumen
 
-Ensayo de divulgación de Jason Hickel (2020). Argumento en dos partes: la primera traza la historia del capitalismo como sistema de despojo (cercamientos, colonialismo, escasez artificial); la segunda propone el decrecimiento como salida —reducción planificada del uso de energía y materiales, redistribución radical, recuperación de los comunes. El libro ha sido influyente como pieza de divulgación; como programa político presenta limitaciones estructurales serias. Fue libro del año en el *Financial Times* y el *New Scientist*.
+Ensayo de divulgación de [[autores/jason_hickel|Jason Hickel]] (2020). Argumento en dos partes: la primera traza la historia del capitalismo como sistema de despojo (cercamientos, colonialismo, escasez artificial); la segunda propone el decrecimiento como salida —reducción planificada del uso de energía y materiales, redistribución radical, recuperación de los comunes. El libro ha sido influyente como pieza de divulgación; como programa político presenta limitaciones estructurales serias. Fue libro del año en el *Financial Times* y el *New Scientist*.
 
 ## Contenido principal
 
@@ -59,15 +59,15 @@ Si la primera parte describe un sistema que lleva cinco siglos encerrando comune
 
 ### La evolución de Hickel
 
-El artículo de Hickel sobre Occupy Wall Street (2012) mostraba ya el análisis de la folk politics casi exactamente como Srnicek y Williams lo desarrollarían en 2015. El Hickel de 2020 dejó esas herramientas a un lado para alcanzar una audiencia popular. En 2025 ha girado explícitamente hacia el ecosocialismo electoral —partido de masas, alianza trabajadores-ambientalistas, garantía de empleo público. La respuesta del movimiento decrecentista ha sido airada.
+El artículo de Hickel sobre Occupy Wall Street (2012) mostraba ya el análisis de la folk politics casi exactamente como [[autores/srnicek_williams|Srnicek y Williams]] lo desarrollarían en [[obras/inventar_el_futuro|Inventing the Future]] (2015). El Hickel de 2020 dejó esas herramientas a un lado para alcanzar una audiencia popular. En 2025 ha girado explícitamente hacia el ecosocialismo electoral —partido de masas, alianza trabajadores-ambientalistas, garantía de empleo público. La respuesta del movimiento decrecentista ha sido airada.
 
 ## Referencias cruzadas
 
-- [[autores/jason-hickel|Jason Hickel]] — contexto biográfico y trayectoria intelectual
+- [[autores/jason_hickel|Jason Hickel]] — contexto biográfico y trayectoria intelectual
 - [[conceptos/decrecimiento|Decrecimiento]] — el concepto central del libro
 - [[conceptos/comunes|Comunes]] — la propuesta alternativa de Hickel; Ostrom y Federici como fuentes
 - [[conceptos/anarquismo|Anarquismo]] — Anarres como sociedad de suficiencia; Le Guin más honesta que Hickel sobre sus contradicciones
-- [[conexiones/revolucion-hedonismo-decrecimiento|Revolución, Hedonismo y Decrecimiento]] — Hickel como caso de decrecimiento-como-austeridad; el mismo punto ciego que Anarres
+- [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]] — Hickel como caso de decrecimiento-como-austeridad; el mismo punto ciego que Anarres
 - [[obras/los_desposeidos|Los Desposeídos]] — el libro de Hickel como intento de teorizar los principios que subyacen a Anarres
 
 ## Fuentes

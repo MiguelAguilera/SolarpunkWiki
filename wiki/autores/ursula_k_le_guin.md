@@ -1,10 +1,10 @@
 ---
-titulo: "Ursula K. Le Guin"
-tipo: autor
-fecha_creacion: 2026-04-18
-fecha_actualizacion: 2026-04-18
-fuentes: [raw/ficcion/los_desposeidos_notas_Miguel.md]
-etiquetas: [ciencia-ficcion, anarquismo, feminismo, antropologia, taoismo]
+title: "Ursula K. Le Guin"
+type: autor
+date: 2026-04-18
+updated: 2026-04-18
+sources: [raw/ficcion/los_desposeidos_notas_Miguel.md]
+tags: [ciencia-ficcion, anarquismo, feminismo, antropologia, taoismo]
 ---
 
 # Ursula K. Le Guin
@@ -40,13 +40,13 @@ Su anarquismo está más cerca de Kropotkin —solidaridad, trabajo, ayuda mutua
 - **Antropología cultural** — sus mundos funcionan como etnografías de sociedades imaginarias
 - **Feminismo** — crítica a la reproducción de jerarquías de género en contextos igualitarios
 
-**Distancias notables:** Le Guin no dialoga con Marcuse, los situacionistas ni con la tradición que reivindica el deseo y el placer como categorías emancipadoras. Este silencio es coherente con sus raíces intelectuales pero produce un punto ciego significativo en su utopía. Véase [[conceptos/acid-communism|Comunismo Ácido]].
+**Distancias notables:** Le Guin no dialoga con Marcuse, los situacionistas ni con la tradición que reivindica el deseo y el placer como categorías emancipadoras. Este silencio es coherente con sus raíces intelectuales pero produce un punto ciego significativo en su utopía. Véase [[conceptos/acid_communism|Comunismo Ácido]].
 
 ## Referencias cruzadas
 
 - [[obras/los_desposeidos|Los Desposeídos]] — obra principal presente en la wiki
 - [[conceptos/anarquismo|Anarquismo]] — concepto central en su obra
-- [[conceptos/acid-communism|Comunismo Ácido]] — marco que ilumina el punto ciego hedónico de su imaginación política
+- [[conceptos/acid_communism|Comunismo Ácido]] — marco que ilumina el punto ciego hedónico de su imaginación política
 
 ## Fuentes
 
