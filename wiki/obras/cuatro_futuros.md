@@ -23,7 +23,7 @@ Frase parte de una premisa simple: el futuro postcapitalista depende de dos vari
 
 **Eje social — igualdad vs. jerarquía**: ¿Se distribuirán los recursos y la riqueza de forma igualitaria, o las élites preservarán y ampliarán sus ventajas mediante mecanismos de control político y económico?
 
-![[../raw/assets/cuatro_futuros_matriz.png]]
+![[cuatro_futuros_matriz.png]]
 
 Frase encuadra los cuatro escenarios como "dos socialismos y dos barbarismos" —actualizando la fórmula de Rosa Luxemburg ("socialismo o barbarie") para reconocer que hay más de una forma de barbarie posible. Un matiz importante: igualdad no significa ausencia de jerarquías, sino ausencia de una jerarquía única y totalizante. En una sociedad igualitaria pueden existir múltiples jerarquías desconectadas entre sí —de reputación, de habilidad, de gusto— sin que ninguna determine el acceso a los recursos básicos.
 
