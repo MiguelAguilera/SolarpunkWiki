@@ -12,7 +12,7 @@ updated: 2026-04-18
 
 - [[obras/los_desposeidos|Los Desposeídos]] — Ursula K. Le Guin (1974). Utopía crítica anarquista.
 - [[obras/monje_y_robot|Monje y Robot]] — Becky Chambers (2021). Post-transición solarpunk; suficiencia, desasosiego existencial, epistemología no extractiva.
-- [[obras/parabola_del_sembrador|La Parábola del Sembrador]] — Octavia Butler (1993). Colapso climático, Earthseed, transmisión práctica de ideología, violencia como sustrato.
+- [[obras/parabola_del_sembrador|La Parábola del Sembrador]] — Octavia Butler (1993). Colapso climático, hiperempatía como solidaridad material, construcción de comunidad desde abajo, cuidados como práctica política.
 
 ### No ficción
 
