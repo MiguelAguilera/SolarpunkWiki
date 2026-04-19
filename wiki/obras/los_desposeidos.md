@@ -49,7 +49,7 @@ La novela sugiere que incluso las revoluciones más radicales pueden cristalizar
 - **Jo Freeman, "La tiranía de la falta de estructura" (1972)** — nombra exactamente el problema del poder informal que Anarres ilustra.
 - **Herbert Marcuse, *Eros y civilización* (1955)** — el capitalismo reprime no solo el trabajo sino el Eros; una sociedad libre requiere liberar el principio del placer. Anarres reorganiza la producción; el Eros apenas aparece.
 - **Raoul Vaneigem, *La revolución de la vida cotidiana* (1967)** — el capitalismo coloniza la textura de la experiencia diaria. La vida de los Anarresi no parece cualitativamente más viva que la de Urras: es más justa, pero no más gozosa.
-- **Mark Fisher, *Comunismo Ácido* (inacabado, 2017)** — ofrece el vocabulario más preciso para el punto ciego de la novela. Leído desde Fisher, Anarres es el mundo que una izquierda que solo tiene el deber puede construir.
+- **[[autores/mark_fisher|Mark Fisher]], *Comunismo Ácido* (inacabado, 2017)** — ofrece el vocabulario más preciso para el punto ciego de la novela. Leído desde Fisher, Anarres es el mundo que una izquierda que solo tiene el deber puede construir.
 
 ### Ideas destacadas
 

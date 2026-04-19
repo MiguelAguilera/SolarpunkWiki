@@ -25,6 +25,7 @@ updated: 2026-04-18
 ## Autores
 
 - [[autores/ursula_k_le_guin|Ursula K. Le Guin]] — Ciencia ficción política, anarquismo, feminismo, taoísmo.
+- [[autores/mark_fisher|Mark Fisher]] — Realismo capitalista, comunismo ácido, hauntología, salud mental como terreno político.
 - [[autores/becky_chambers|Becky Chambers]] — Hopepunk, cuidados, epistemología no extractiva, fenomenología del buen vivir.
 - [[autores/silvia_federici|Silvia Federici]] — Marxismo feminista, reproducción social, cercamientos, acumulación originaria, caza de brujas. [?]
 - [[autores/octavia_butler|Octavia E. Butler]] — Afrofuturismo, colapso como revelación, contradicción humana, transmisión práctica.
@@ -37,7 +38,8 @@ updated: 2026-04-18
 ## Conceptos
 
 - [[conceptos/anarquismo|Anarquismo]] — Jerarquías informales, poder distribuido, ayuda mutua, sedimentación revolucionaria.
-- [[conceptos/acid_communism|Comunismo Ácido]] — Mark Fisher. El deseo como terreno político; la izquierda y el abandono del hedonismo.
+- [[conceptos/realismo_capitalista|Realismo capitalista]] — Mark Fisher. Es más fácil imaginar el fin del mundo que el fin del capitalismo; impotencia reflexiva, salud mental, ontología empresarial.
+- [[conceptos/acid_communism|Comunismo Ácido]] — Mark Fisher. El deseo como terreno político; la izquierda y el abandono del hedonismo; la contracultura como horizonte truncado.
 - [[conceptos/decrecimiento|Decrecimiento]] — Límites biofísicos, desacoplamiento, teoría del cambio ausente, tensión con ecosocialismo.
 - [[conceptos/comunes|Comunes]] — Ostrom, Federici, gobernanza colectiva; historia de su destrucción y condiciones de su recuperación.
 - [[conceptos/trabajo_de_cuidados|Trabajo de cuidados]] — Federici, reproducción social, comunes reproductivos; Panga como la sociedad que nunca los encerró.

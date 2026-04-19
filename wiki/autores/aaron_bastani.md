@@ -17,7 +17,7 @@ Comentarista político británico, cofundador del medio de comunicación de izqu
 
 ### Contexto intelectual y político
 
-Bastani escribe desde la izquierda británica del periodo corbynista —el mismo entorno que Jeremy Gilbert y que Mark Fisher, aunque con una sensibilidad diferente. Donde Fisher trabaja la subjetividad y la conciencia como terreno político, Bastani trabaja las fuerzas productivas y la abundancia material. Comparten el rechazo a la austeridad de izquierda, pero llegan a él por rutas distintas.
+Bastani escribe desde la izquierda británica del periodo corbynista —el mismo entorno que Jeremy Gilbert y que [[autores/mark_fisher|Mark Fisher]], aunque con una sensibilidad diferente. Donde Fisher trabaja la subjetividad y la conciencia como terreno político, Bastani trabaja las fuerzas productivas y la abundancia material. Comparten el rechazo a la austeridad de izquierda, pero llegan a él por rutas distintas.
 
 Su aceleracionismo de izquierda lo distingue tanto del aceleracionismo liberal de Silicon Valley como del decrecimiento: no acepta los límites biofísicos como dato inamovible ni la austeridad como virtud política. La tecnología —renovables, automatización, edición genética, extracción espacial— puede resolver esos límites si se pone bajo control democrático.
 
