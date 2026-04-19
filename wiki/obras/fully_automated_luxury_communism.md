@@ -11,13 +11,15 @@ tags: [aceleracionismo, post-capitalismo, automatización, abundancia, lujo, tec
 
 ## Resumen
 
-Ensayo-manifiesto de [[autores/aaron_bastani|Aaron Bastani]] (2019). Argumenta que el capitalismo está llegando a su fin por la convergencia de cinco contradicciones —cambio climático, escasez de recursos, envejecimiento social, pobreza y automatización— y que las mismas tecnologías que agravan esas crisis pueden, bajo control democrático, producir una sociedad postcapitalista de abundancia universal. El "lujo" no como privilegio de élite sino como satisfacción plena de necesidades para todos.
+Ensayo-manifiesto de [[autores/aaron_bastani|Aaron Bastani]] (2019; ed. española: Antipersona, 2020, trad. L. Martínez). Presenta una crisis multidimensional —cambio climático, escasez de recursos, envejecimiento social, pobreza, automatización— que hoy se aborda casi exclusivamente desde la perspectiva de la escasez: la propuesta hegemónica dominante es aumentar los sacrificios para vivir, en el mejor de los casos, un declive más suave. Bastani invierte esta lógica: rastrea en las mismas transformaciones tecnológicas —trabajo, energía, alimentos, recursos, salud— una tendencia inscrita en el propio funcionamiento del capitalismo hacia situaciones de abundancia. Esto desplaza la pregunta política: no cómo gestionar la escasez sino cómo evitar que esa abundancia inminente quede sometida al régimen de escasez artificial que el sistema necesita para reproducirse. El "lujo" no como privilegio de élite sino como posibilidad de vida ampliamente distribuida.
 
 ## Contenido principal
 
 ### El argumento central
 
 Bastani parte de la tesis marxista de que el capitalismo construye las condiciones de su propia superación. Las tecnologías actuales —automatización, inteligencia artificial, energías renovables, edición genética, producción de alimentos sintéticos— tienen el potencial de eliminar el trabajo necesario y producir bienes a coste marginal cercano a cero. La información, a diferencia de los bienes materiales, tiende a reproducirse infinitamente; esta lógica puede extenderse a otros dominios con las tecnologías adecuadas.
+
+El movimiento argumental más importante del libro es un desplazamiento político: si la abundancia ya está siendo producida por el propio sistema, la pregunta deja de ser cómo sobrevivir la escasez y pasa a ser cómo impedir que esa abundancia sea capturada y reconvertida en escasez artificial para mantener el beneficio privado. Los cercamientos de la propiedad intelectual, el control corporativo de la energía o la privatización de la biotecnología son exactamente ese mecanismo. Pisar el acelerador de la historia no significa confiar en el progreso tecnológico espontáneo —significa disputar activamente quién controla sus frutos.
 
 El programa político propone apropiarse de esas tecnologías mediante control democrático y estatal en lugar de dejar que permanezcan como herramientas de acumulación privada.
 
