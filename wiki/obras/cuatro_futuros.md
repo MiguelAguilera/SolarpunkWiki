@@ -3,7 +3,7 @@ title: "Cuatro Futuros"
 type: obra
 date: 2026-04-18
 updated: 2026-04-18
-sources: [https://jacobin.com/2011/12/four-futures]
+sources: [https://jacobin.com/2011/12/four-futures, https://kortina.nyc/notes/four-futures-life-after-capitalism/]
 tags: [postcapitalismo, futuros, automatización, rentismo, exterminismo, escasez, igualdad]
 ---
 
@@ -23,6 +23,10 @@ Frase parte de una premisa simple: el futuro postcapitalista depende de dos vari
 
 **Eje social — igualdad vs. jerarquía**: ¿Se distribuirán los recursos y la riqueza de forma igualitaria, o las élites preservarán y ampliarán sus ventajas mediante mecanismos de control político y económico?
 
+![[../raw/assets/cuatro_futuros_matriz.png]]
+
+Frase encuadra los cuatro escenarios como "dos socialismos y dos barbarismos" —actualizando la fórmula de Rosa Luxemburg ("socialismo o barbarie") para reconocer que hay más de una forma de barbarie posible. Un matiz importante: igualdad no significa ausencia de jerarquías, sino ausencia de una jerarquía única y totalizante. En una sociedad igualitaria pueden existir múltiples jerarquías desconectadas entre sí —de reputación, de habilidad, de gusto— sin que ninguna determine el acceso a los recursos básicos.
+
 ### Los cuatro futuros
 
 **Comunismo** (abundancia + igualdad)
@@ -39,7 +43,7 @@ El escenario más oscuro: las élites se protegen en enclaves blindados mientras
 
 ### El argumento central
 
-El futuro no está determinado tecnológicamente. La automatización y la transición energética abren el espacio de posibilidades, pero la política decide en qué escenario se aterriza. "Una cosa de la que podemos estar seguros es que el capitalismo terminará": la pregunta es si la izquierda construye el poder necesario para alcanzar comunismo o socialismo, o si permite que las élites impongan rentismo o exterminismo.
+El futuro no está determinado tecnológicamente. La pregunta no es si habrá automatización sino quién poseerá los robots: la misma tecnología produce comunismo o rentismo según quién controle su propiedad y sus frutos. La automatización y la transición energética abren el espacio de posibilidades, pero la política decide en qué escenario se aterriza. "Una cosa de la que podemos estar seguros es que el capitalismo terminará": la pregunta es si la izquierda construye el poder necesario para alcanzar comunismo o socialismo, o si permite que las élites impongan rentismo o exterminismo.
 
 ### La crítica al optimismo tecnológico
 
@@ -70,3 +74,4 @@ Esta crítica no invalida el programa de Bastani, pero sí señala que la lucha 
 ## Fuentes
 
 - [Artículo original en Jacobin](https://jacobin.com/2011/12/four-futures) — versión completa del argumento
+- [Reseña de kortina.nyc](https://kortina.nyc/notes/four-futures-life-after-capitalism/) — síntesis con matices sobre igualdad, jerarquía y propiedad intelectual

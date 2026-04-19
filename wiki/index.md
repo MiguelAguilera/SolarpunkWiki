@@ -19,14 +19,14 @@ updated: 2026-04-18
 - [[obras/less_is_more|Less Is More]] — Jason Hickel (2020). Manifiesto ecosocialista de divulgación; decrecimiento y sus límites políticos.
 - [[obras/abundance|Abundancia]] — Ezra Klein y Derek Thompson (2024). Reforma del liberalismo progresista para recuperar capacidad estatal.
 - [[obras/fully_automated_luxury_communism|Comunismo de lujo totalmente automatizado]] — Aaron Bastani (2019). Aceleracionismo de izquierda; lujo universal a través de automatización y postcapitalismo tecnológico.
-- [[obras/inventar_el_futuro|Inventar el futuro]] — Srnicek y Williams (2015). Crítica de la folk politics; programa post-trabajo; estrategia hegemónica para la izquierda.
-- [[obras/cuatro_futuros|Cuatro Futuros]] — Peter Frase (2016). Mapa de escenarios postcapitalistas: comunismo, rentismo, socialismo, exterminismo. El cambio climático como factor que empuja hacia la escasez y amplifica el riesgo de exterminismo.
+- [[obras/inventar_el_futuro|Inventar el futuro]] — Srnicek y Williams (2015). Automatización, renta básica universal y reducción de jornada como plataforma anticapitalista; teoría del cambio hegemónico frente al horizontalismo prefigurativo.
+- [[obras/cuatro_futuros|Cuatro Futuros]] — Peter Frase (2016). Mapa de escenarios postcapitalistas: comunismo, rentismo, socialismo, exterminismo. La tensión entre abundancia y escasez (tecnología vs. clima) cruzada con la tensión entre igualdad y jerarquía determina en qué mundo postcapitalista aterrizamos.
 
 ## Autores
 
 - [[autores/ursula_k_le_guin|Ursula K. Le Guin]] — Ciencia ficción política, anarquismo, feminismo, taoísmo.
 - [[autores/becky_chambers|Becky Chambers]] — Hopepunk, cuidados, epistemología no extractiva, fenomenología del buen vivir.
-- [[autores/silvia_federici|Silvia Federici]] — Marxismo feminista, reproducción social, enclosures, caza de brujas como acumulación originaria. [?]
+- [[autores/silvia_federici|Silvia Federici]] — Marxismo feminista, reproducción social, cercamientos, acumulación originaria, caza de brujas. [?]
 - [[autores/octavia_butler|Octavia E. Butler]] — Afrofuturismo, colapso como revelación, contradicción humana, transmisión práctica.
 - [[autores/jason_hickel|Jason Hickel]] — Decrecimiento, ecosocialismo, antropología política, Sur Global.
 - [[autores/ezra_klein_derek_thompson|Ezra Klein y Derek Thompson]] — Liberalismo progresista, capacidad estatal, divulgación política.

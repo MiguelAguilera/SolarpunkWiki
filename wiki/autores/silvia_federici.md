@@ -4,7 +4,7 @@ type: autor
 date: 2026-04-19
 updated: 2026-04-19
 sources: []
-tags: [marxismo-feminista, reproduccion-social, comunes, enclosures, caza-de-brujas, capitalismo]
+tags: [marxismo-feminista, reproduccion-social, comunes, cercamientos, acumulacion-originaria, caza-de-brujas, capitalismo]
 ---
 
 # Silvia Federici
