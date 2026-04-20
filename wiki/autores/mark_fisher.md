@@ -11,7 +11,7 @@ tags: [realismo-capitalista, acid-communism, cultura, izquierda, salud-mental, h
 
 ## Resumen
 
-Teórico cultural y crítico británico (1968–2017). Uno de los pensadores de izquierda más influyentes de las últimas décadas, conocido principalmente por acuñar el concepto de [[conceptos/realismo_capitalista|realismo capitalista]] y por el proyecto inconcluso del [[conceptos/acid_communism|Comunismo Ácido]]. Escribió desde el blog *k-punk* —uno de los primeros blogs teórico-políticos de referencia— y desde posiciones académicas en Goldsmiths (Londres). Su muerte en enero de 2017 interrumpió una de las líneas de pensamiento más prometedoras de la izquierda contemporánea.
+Teórico cultural y crítico británico (1968–2017). Uno de los pensadores de izquierda más influyentes de las últimas décadas, conocido principalmente por acuñar el concepto de [[obras/realismo_capitalista|realismo capitalista]] y por el proyecto inconcluso del [[conceptos/acid_communism|Comunismo Ácido]]. Escribió desde el blog *k-punk* —uno de los primeros blogs teórico-políticos de referencia— y desde posiciones académicas en Goldsmiths (Londres). Su muerte en enero de 2017 interrumpió una de las líneas de pensamiento más prometedoras de la izquierda contemporánea.
 
 ## Contenido principal
 
@@ -23,7 +23,7 @@ Su herramienta analítica característica: tomar un objeto de la cultura de masa
 
 ### Las dos obras centrales de la wiki
 
-**[[conceptos/realismo_capitalista|Realismo Capitalista]]** (2009): su obra de mayor difusión. Diagnostica la condición cultural e ideológica del capitalismo contemporáneo: la incapacidad generalizada de imaginar alternativas, el colapso de toda perspectiva de futuro, la interiorización de la inevitabilidad del sistema incluso entre quienes lo critican. El libro usa análisis de cultura popular, educación y salud mental como materiales de diagnóstico.
+**[[obras/realismo_capitalista|Realismo Capitalista]]** (2009): su obra de mayor difusión. Diagnostica la condición cultural e ideológica del capitalismo contemporáneo: la incapacidad generalizada de imaginar alternativas, el colapso de toda perspectiva de futuro, la interiorización de la inevitabilidad del sistema incluso entre quienes lo critican. El libro usa análisis de cultura popular, educación y salud mental como materiales de diagnóstico.
 
 **[[conceptos/acid_communism|Comunismo Ácido]]** (inacabado, publicado póstumamente, 2017): su proyecto final, interrumpido por su muerte. Intentaba rehabilitar la memoria de la contracultura de los sesenta —no como antecedente del triunfo neoliberal (la lectura dominante incluso en la izquierda), sino como demostración de que la dominación nunca es completa. La psicodelia, la alegría colectiva, la fusión de conciencia de clase y conciencia subjetiva apuntaban hacia algo que el capital tuvo que destruir activamente. El texto propone ese horizonte —una vida donde el placer y la cooperación sustituyan a los imperativos laborales— como el territorio político que la izquierda necesita recuperar.
 
@@ -43,7 +43,7 @@ La desaparición de Fisher en 2017 privó a la izquierda de uno de sus críticos
 
 ## Referencias cruzadas
 
-- [[conceptos/realismo_capitalista|Realismo Capitalista]] — su concepto más influyente; el diagnóstico de la condición presente
+- [[obras/realismo_capitalista|Realismo Capitalista]] — su concepto más influyente; el diagnóstico de la condición presente
 - [[conceptos/acid_communism|Comunismo Ácido]] — su proyecto final e inconcluso; la propuesta política
 - [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la aplicación del marco de Fisher al decrecimiento y el solarpunk
 - [[obras/los_desposeidos|Los Desposeídos]] — la novela que Fisher permite leer como utopía sin hedonismo

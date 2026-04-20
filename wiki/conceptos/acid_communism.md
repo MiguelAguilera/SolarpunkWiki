@@ -21,7 +21,7 @@ Fisher define el comunismo ácido como "la convergencia de la conciencia de clas
 
 Fisher argumenta, además, que el neoliberalismo no tenía como objetivo principal destruir el socialismo soviético —ese ya estaba en declive. Su objetivo real era destruir esta otra posibilidad: el "socialismo democrático y comunismo libertario" que florecía en los márgenes de las sociedades occidentales. El neoliberalismo como contrarevolución cultural antes que económica.
 
-Los casos históricos que invoca son deliberadamente heterogéneos: los **trabajadores de Lordstown** (1972), una generación nueva que rechazaba el autoritarismo fabril no solo en términos salariales sino cualitativos; **Bologna 1977**, un "avant-garde de masas" que combinaba teoría radical, cultura psicodélica y militancia obrera; y el **Chile de Allende**, cuyo golpe Fisher lee como el momento fundacional del [[conceptos/realismo_capitalista|realismo capitalista]] —la demostración de que el capital recurriría a la violencia directa antes de permitir que la alternativa prosperara.
+Los casos históricos que invoca son deliberadamente heterogéneos: los **trabajadores de Lordstown** (1972), una generación nueva que rechazaba el autoritarismo fabril no solo en términos salariales sino cualitativos; **Bologna 1977**, un "avant-garde de masas" que combinaba teoría radical, cultura psicodélica y militancia obrera; y el **Chile de Allende**, cuyo golpe Fisher lee como el momento fundacional del [[obras/realismo_capitalista|realismo capitalista]] —la demostración de que el capital recurriría a la violencia directa antes de permitir que la alternativa prosperara.
 
 La derrota de esa visión no vino principalmente de la represión directa —vino de la *recuperación*: el capital absorbió las formas de la contracultura (la estética, el lenguaje, la música) vaciándolas de contenido político. Marcuse llamaba a esto la inversión del "Gran Rechazo": la negación racional del orden existente que el arte podía encarnar se convirtió en mercancía. Lo que quedó fue una izquierda que había perdido ese terreno y se había refugiado en la austeridad moral como sustituto.
 
@@ -75,7 +75,7 @@ Esto es el materialismo de la solidaridad que Fisher implica pero no formula: si
 - [[conceptos/anarquismo|Anarquismo]] — tradición que el comunismo ácido complementa desde el terreno afectivo
 - [[conexiones/revolucion_hedonismo_decrecimiento|Revolución, Hedonismo y Decrecimiento]] — la aplicación de este marco al decrecimiento y el solarpunk
 - [[autores/mark_fisher|Mark Fisher]] — autor del concepto; contexto intelectual y obra completa
-- [[conceptos/realismo_capitalista|Realismo capitalista]] — el diagnóstico del que el comunismo ácido es la propuesta de salida
+- [[obras/realismo_capitalista|Realismo capitalista]] — el diagnóstico del que el comunismo ácido es la propuesta de salida
 - [[autores/ursula_k_le_guin|Ursula K. Le Guin]] — autora cuyo punto ciego el comunismo ácido permite nombrar
 - [[obras/parabola_del_sembrador|La Parábola del Sembrador]] — la hiperempatía como teoría materialista de la solidaridad
 

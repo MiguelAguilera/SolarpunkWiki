@@ -1,19 +1,19 @@
 ---
-title: "Realismo capitalista"
-type: concepto
+title: "Realismo capitalista: ¿No hay alternativa?"
+type: obra
 date: 2026-04-19
 updated: 2026-04-19
 sources: [https://es.wikipedia.org/wiki/Realismo_capitalista:_%C2%BFNo_hay_alternativa%3F, https://leeresvivirdosveces.com/2021/06/26/resena-de-realismo-capitalista-no-hay-alternativa-de-mark-fisher/, https://traficantes.net/nociones-comunes/mark-fisher-y-el-realismo-capitalista]
 tags: [realismo-capitalista, mark-fisher, ideologia, capitalismo, salud-mental, cultura, impotencia-reflexiva]
 ---
 
-# Realismo capitalista
+# Realismo capitalista: ¿No hay alternativa?
 
 ## Resumen
 
-Concepto acuñado por [[autores/mark_fisher|Mark Fisher]] en su libro homónimo (2009). Designa la condición cultural e ideológica en que el capitalismo se percibe no como un sistema entre otros sino como el horizonte insuperable de toda posibilidad: "Es más fácil imaginar el fin del mundo que el fin del capitalismo." No es una ideología en el sentido de un conjunto de creencias que se pueden refutar —es una *atmósfera*, una colonización del sentido común que afecta incluso a quienes critican el sistema. El realismo capitalista no dice que el capitalismo sea bueno; dice que no hay alternativa.
+Ensayo de [[autores/mark_fisher|Mark Fisher]] (Zero Books, 2009; ed. española: Caja Negra, 2016, trad. Claudio Iglesias, prólogo de Peio Aguirre). 160 páginas. El libro más influyente de Fisher, y uno de los diagnósticos políticos más citados de las últimas dos décadas. Partiendo de la célebre sentencia de Fredric Jameson —"es más fácil imaginar el fin del mundo que el fin del capitalismo"—, Fisher analiza el capitalismo no como sistema económico que se defiende mediante argumentos sino como atmósfera ideológica que coloniza la capacidad misma de imaginar alternativas. El eslogan thatcheriano "no hay alternativa" no fue solo propaganda: con el tiempo se convirtió en convicción compartida, incluso entre quienes critican el sistema.
 
-El concepto articula varias paradojas del presente: la ciencia ficción contemporánea imagina con facilidad civilizaciones destruidas pero raramente muestra el capitalismo superado; el neoliberalismo que prometía liquidar la burocracia estatal ha producido más papeleo, más auditorías y más gestión que ningún sistema anterior; el hedonismo compulsivo y la depresión masiva no son opuestos sino síntomas simultáneos del mismo estado cultural. Fisher no trata estos fenómenos como anomalías sino como efectos coherentes de una condición ideológica que funciona precisamente porque no se percibe como ideológica.
+El libro articula varias paradojas del presente: la ciencia ficción imagina con facilidad civilizaciones destruidas pero raramente el capitalismo superado; el neoliberalismo que prometía liquidar la burocracia estatal ha producido más auditorías, métricas y gestión que ningún sistema anterior; el hedonismo compulsivo y la depresión masiva no son opuestos sino síntomas simultáneos del mismo estado cultural. Fisher trata estos fenómenos no como anomalías sino como efectos coherentes de una condición ideológica que funciona precisamente porque no se percibe como ideológica. Como escribe Žižek en su elogio del libro: "un despiadado retrato de nuestra miseria ideológica."
 
 ## Contenido principal
 

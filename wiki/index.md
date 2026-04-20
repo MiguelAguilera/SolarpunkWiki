@@ -16,6 +16,7 @@ updated: 2026-04-18
 
 ### No ficción
 
+- [[obras/realismo_capitalista|Realismo capitalista: ¿No hay alternativa?]] — Mark Fisher (2009). Diagnóstico del capitalismo como atmósfera ideológica; impotencia reflexiva, burocracia paradójica, salud mental como síntoma político.
 - [[obras/less_is_more|Less Is More]] — Jason Hickel (2020). Manifiesto ecosocialista de divulgación; decrecimiento y sus límites políticos.
 - [[obras/abundance|Abundancia]] — Ezra Klein y Derek Thompson (2024). Reforma del liberalismo progresista para recuperar capacidad estatal.
 - [[obras/fully_automated_luxury_communism|Comunismo de lujo totalmente automatizado]] — Aaron Bastani (2019). Aceleracionismo de izquierda; lujo universal a través de automatización y postcapitalismo tecnológico.
@@ -38,7 +39,6 @@ updated: 2026-04-18
 ## Conceptos
 
 - [[conceptos/anarquismo|Anarquismo]] — Jerarquías informales, poder distribuido, ayuda mutua, sedimentación revolucionaria.
-- [[conceptos/realismo_capitalista|Realismo capitalista]] — Mark Fisher. Es más fácil imaginar el fin del mundo que el fin del capitalismo; impotencia reflexiva, salud mental, ontología empresarial.
 - [[conceptos/acid_communism|Comunismo Ácido]] — Mark Fisher. El deseo como terreno político; la izquierda y el abandono del hedonismo; la contracultura como horizonte truncado.
 - [[conceptos/decrecimiento|Decrecimiento]] — Límites biofísicos, desacoplamiento, teoría del cambio ausente, tensión con ecosocialismo.
 - [[conceptos/comunes|Comunes]] — Ostrom, Federici, gobernanza colectiva; historia de su destrucción y condiciones de su recuperación.
